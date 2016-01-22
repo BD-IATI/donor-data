@@ -1,0 +1,2878 @@
+<result xmlns:iati-extra="http://datastore.iatistandard.org/ns">
+    <ok>True</ok>
+    <iati-activities generated-datetime='2016-01-22T02:00:56.961437'>
+      <query>
+        <total-count>54</total-count>
+        <start></start>
+        <limit></limit>
+      </query>
+    <iati-activity iati-extra:version="1.05" xml:lang="de" default-currency="EUR" last-updated-datetime="2015-12-18T17:00:00+01:00" hierarchy="1">
+  <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+  <iati-identifier>DE-1-201121672</iati-identifier>
+  <other-identifier owner-ref="DE-1" owner-name="BMZ">201121672</other-identifier>
+  <title xml:lang="de">Bewältigung der demografischen Herausforderungen in Bangladesch</title>
+  <title xml:lang="en">Addressing Bangladesh's Demographic Challenges ABDC</title>
+  <description type="1" xml:lang="de">Das System zur Versorgung der Bevölkerung mit Diensten zur reproduktiven Gesundheit
+   ist in der Stadt Sylhet verbessert.</description>
+  <description type="1" xml:lang="en">Adressing Bangladesch's Demographic Challenges (ABDC) improve the provision of
+   familiy planning and mother-and-child health care services for people living in urban and
+   pri-uban centres in Sylhet Division</description>
+  <activity-website>https://www.giz.de/projektdaten/projects.action?request_locale=en_EN&amp;pn=201121672</activity-website>
+  <activity-status code="2" xml:lang="en">Implementation</activity-status>
+  <activity-date iso-date="2011-11-29" type="start-actual"/>
+  <activity-date iso-date="2011-11-29" type="start-planned"/>
+  <activity-date iso-date="2015-12-31" type="end-planned"/>
+  <contact-info>
+   <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+   <email>RL223@bmz.bund.de</email>
+   <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach
+    12 03 22, 53045 Bonn</mailing-address>
+  </contact-info>
+  <participating-org ref="DE" type="10" role="Funding">BMZ</participating-org>
+  <participating-org role="Implementing">Gesellschaft für internationale Zusammenarbeit (GIZ) GmbH</participating-org>
+  <participating-org role="Implementing">Ministry of Health and Family Welfare</participating-org>
+  <recipient-country xml:lang="en" code="BD">Bangladesh</recipient-country>
+  <sector vocabulary="DAC" code="13030"/>
+  <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+  <policy-marker code="3" vocabulary="DAC" significance="1">Participatory Development/Good Governance</policy-marker>
+  <collaboration-type code="1"/>
+  <transaction>
+   <provider-org ref="DE-1">BMZ</provider-org>
+   <aid-type code="C01"/>
+   <flow-type code="10">ODA</flow-type>
+   <finance-type code="110"/>
+   <tied-status code="3"/>
+   <transaction-date iso-date="2011-11-29"/>
+   <transaction-type code="C"/>
+   <value currency="EUR" value-date="2011-11-29">10500000</value>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Total amount</description>
+   <value currency="EUR" value-date="2015-10-31">5842999</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Personnel costs</description>
+   <value currency="EUR" value-date="2015-10-31">3204770</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Material costs</description>
+   <value currency="EUR" value-date="2015-10-31">376123</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Other costs</description>
+   <value currency="EUR" value-date="2015-10-31">2262106</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+ </iati-activity><iati-activity iati-extra:version="1.05" xml:lang="de" default-currency="EUR" last-updated-datetime="2015-12-18T17:00:00+01:00" hierarchy="1">
+  <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+  <iati-identifier>DE-1-201070200</iati-identifier>
+  <other-identifier owner-ref="DE-1" owner-name="BMZ">201070200</other-identifier>
+  <title xml:lang="de">Ländliche Märkte und Straßen III (RIIP III) - Begleitmaßnahme</title>
+  <title xml:lang="en">Rural Infrastructure Improvement Programme, Phase III</title>
+  <description type="1" xml:lang="de">Ziel ist, Armut durch ländliche Entwicklung, verbesserte Infrastruktur und
+   nachhaltiges wirtschaftliches Wachstum im Nordwesten des Landes zu reduzieren. Dies soll durch
+   eine Begleitmaßnahme flankiert werden.</description>
+  <description type="1" xml:lang="en">Financial contribution for consulting services and capacity development in the
+   fields of local governance, gender, environment and climate change, and institutional
+   development.</description>
+  <activity-status code="2" xml:lang="en">Implementation</activity-status>
+  <activity-date iso-date="2010-03-30" type="start-actual"/>
+  <activity-date iso-date="2012-07-19" type="start-planned"/>
+  <activity-date iso-date="2015-07-19" type="end-planned"/>
+  <contact-info>
+   <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+   <email>RL223@bmz.bund.de</email>
+   <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach
+    12 03 22, 53045 Bonn</mailing-address>
+  </contact-info>
+  <participating-org ref="DE" type="10" role="Funding">BMZ</participating-org>
+  <participating-org role="Implementing">KREDITANSTALT FUER WIEDERAUFBAU (KFW)</participating-org>
+  <participating-org role="Implementing"> </participating-org>
+  <recipient-country xml:lang="en" code="BD">Bangladesh</recipient-country>
+  <sector vocabulary="DAC" code="43040"/>
+  <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+  <collaboration-type code="1"/>
+  <transaction>
+   <provider-org ref="DE-1">BMZ</provider-org>
+   <aid-type code="C01"/>
+   <flow-type code="10">ODA</flow-type>
+   <finance-type code="110"/>
+   <transaction-date iso-date="2010-03-30"/>
+   <transaction-type code="C"/>
+   <value currency="EUR" value-date="2010-03-30">1000000</value>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Total amount</description>
+   <value currency="EUR" value-date="2015-10-31">639233</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Personnel costs</description>
+   <value currency="EUR" value-date="2015-10-31">0</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Material costs</description>
+   <value currency="EUR" value-date="2015-10-31">0</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Other costs</description>
+   <value currency="EUR" value-date="2015-10-31">0</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+ </iati-activity><iati-activity iati-extra:version="1.05" xml:lang="de" default-currency="EUR" last-updated-datetime="2015-12-18T17:00:00+01:00" hierarchy="1">
+  <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+  <iati-identifier>DE-1-201534049</iati-identifier>
+  <other-identifier owner-ref="DE-1" owner-name="BMZ">201534049</other-identifier>
+  <title xml:lang="de">Integrierte ländliche Familienentwicklung in Shiranti und Nirmail</title>
+  <title xml:lang="en">Integrated Rural Family Development Project (IRFDP) in Shiranti und Nirmail</title>
+  <activity-status code="1" xml:lang="en">Pipeline/identification</activity-status>
+  <activity-date iso-date="2015-07-01" type="start-planned"/>
+  <contact-info>
+   <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+   <email>RL110@bmz.bund.de</email>
+   <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach
+    12 03 22, 53045 Bonn</mailing-address>
+  </contact-info>
+  <participating-org ref="DE" type="10" role="Funding">BMZ</participating-org>
+  <participating-org role="Implementing">Internationaler Ländlicher Entwicklungsdienst e.V. (ILD)</participating-org>
+  <recipient-country xml:lang="en" code="BD">Bangladesh</recipient-country>
+  <sector vocabulary="DAC" code="43040"/>
+  <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+  <collaboration-type code="1"/>
+  <transaction>
+   <provider-org ref="DE-1">BMZ</provider-org>
+   <flow-type code="10">ODA</flow-type>
+   <tied-status code="5"/>
+   <transaction-type code="C"/>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Total amount</description>
+   <value currency="EUR" value-date="2015-10-31">20802</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+ </iati-activity><iati-activity iati-extra:version="1.05" xml:lang="de" default-currency="EUR" last-updated-datetime="2015-12-18T17:00:00+01:00" hierarchy="1">
+  <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+  <iati-identifier>DE-1-200665869</iati-identifier>
+  <other-identifier owner-ref="DE-1" owner-name="BMZ">200665869</other-identifier>
+  <title xml:lang="de">Energieeffizienz II (Stromübertragungsprogramm) </title>
+  <title xml:lang="en">Energy Efficiency Programme II</title>
+  <description type="1" xml:lang="de">Verbesserung der Energieeffizienz durch Reduzierung von
+   Stromübertragungsverlusten</description>
+  <description type="1" xml:lang="en">Financing of the procurement and installation of goods and services for the Energy
+   Efficiency Programme II</description>
+  <activity-status code="2" xml:lang="en">Implementation</activity-status>
+  <activity-date iso-date="2006-10-19" type="start-actual"/>
+  <activity-date iso-date="2009-06-05" type="start-planned"/>
+  <activity-date iso-date="2012-06-04" type="end-planned"/>
+  <contact-info>
+   <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+   <email>RL223@bmz.bund.de</email>
+   <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach
+    12 03 22, 53045 Bonn</mailing-address>
+  </contact-info>
+  <participating-org ref="DE" type="10" role="Funding">BMZ</participating-org>
+  <participating-org role="Implementing">KREDITANSTALT FUER WIEDERAUFBAU (KFW)</participating-org>
+  <participating-org role="Implementing">DHAKA POWER DISTRIBUTION COMPA NY LIMITED</participating-org>
+  <recipient-country xml:lang="en" code="BD">Bangladesh</recipient-country>
+  <sector vocabulary="DAC" code="23040"/>
+  <policy-marker code="2" vocabulary="DAC" significance="1">Aid to Environment</policy-marker>
+  <collaboration-type code="1"/>
+  <transaction>
+   <provider-org ref="DE-1">BMZ</provider-org>
+   <aid-type code="C01"/>
+   <flow-type code="10">ODA</flow-type>
+   <finance-type code="110"/>
+   <transaction-date iso-date="2006-10-19"/>
+   <transaction-type code="C"/>
+   <value currency="EUR" value-date="2006-10-19">31400000</value>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Total amount</description>
+   <value currency="EUR" value-date="2015-10-31">26445237</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Personnel costs</description>
+   <value currency="EUR" value-date="2015-10-31">0</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Material costs</description>
+   <value currency="EUR" value-date="2015-10-31">0</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Other costs</description>
+   <value currency="EUR" value-date="2015-10-31">0</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+ </iati-activity><iati-activity iati-extra:version="1.05" xml:lang="de" default-currency="EUR" last-updated-datetime="2015-12-18T17:00:00+01:00" hierarchy="1">
+  <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+  <iati-identifier>DE-1-200665612</iati-identifier>
+  <other-identifier owner-ref="DE-1" owner-name="BMZ">200665612</other-identifier>
+  <title xml:lang="de">Förderung häuslicher Biogasanlagen</title>
+  <title xml:lang="en">National Domestic Biogas and Manure Programme</title>
+  <description type="1" xml:lang="de">Förderung der Verbreitung des Einsatzes von Biogas Technologien in
+   Bangladesch</description>
+  <description type="1" xml:lang="en">Financing of the national domestic biogas programme in order to establish a biogas
+   sector for agricultural production and food preparation.</description>
+  <activity-status code="2" xml:lang="en">Implementation</activity-status>
+  <activity-date iso-date="2006-09-19" type="start-actual"/>
+  <activity-date iso-date="2009-06-23" type="start-planned"/>
+  <activity-date iso-date="2012-06-22" type="end-planned"/>
+  <contact-info>
+   <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+   <email>RL223@bmz.bund.de</email>
+   <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach
+    12 03 22, 53045 Bonn</mailing-address>
+  </contact-info>
+  <participating-org ref="DE" type="10" role="Funding">BMZ</participating-org>
+  <participating-org role="Implementing">KREDITANSTALT FUER WIEDERAUFBAU (KFW)</participating-org>
+  <participating-org role="Implementing">INFRASTRUCTURE DEVELOPMENT COMPANY LIMITED</participating-org>
+  <recipient-country xml:lang="en" code="BD">Bangladesh</recipient-country>
+  <sector vocabulary="DAC" code="23070"/>
+  <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+  <policy-marker code="2" vocabulary="DAC" significance="2">Aid to Environment</policy-marker>
+  <collaboration-type code="1"/>
+  <transaction>
+   <provider-org ref="DE-1">BMZ</provider-org>
+   <aid-type code="C01"/>
+   <flow-type code="10">ODA</flow-type>
+   <finance-type code="110"/>
+   <transaction-date iso-date="2006-09-19"/>
+   <transaction-type code="C"/>
+   <value currency="EUR" value-date="2006-09-19">8600000</value>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Total amount</description>
+   <value currency="EUR" value-date="2015-10-31">6660587</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Personnel costs</description>
+   <value currency="EUR" value-date="2015-10-31">0</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Material costs</description>
+   <value currency="EUR" value-date="2015-10-31">0</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Other costs</description>
+   <value currency="EUR" value-date="2015-10-31">0</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+ </iati-activity><iati-activity iati-extra:version="1.05" xml:lang="de" default-currency="EUR" last-updated-datetime="2015-12-18T17:00:00+01:00" hierarchy="1">
+  <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+  <iati-identifier>DE-1-201322585</iati-identifier>
+  <other-identifier owner-ref="DE-1" owner-name="BMZ">201322585</other-identifier>
+  <title xml:lang="de">Management der Sunderbans-Mangrovenwälder zur Verbesserung von Biodiversitätsschutz
+   und Klimawandelanpassung</title>
+  <title xml:lang="en">Promotion of the Management of Sunderbans-Mangrove Forest in Bangladesh (Sunderbans
+   II)</title>
+  <description type="1" xml:lang="de">Verbesserte institutionelle und organisatorische Rahmenbedingungen für ein an den
+   Klimawandel angepasstes Management des Sunderbans Öko-systems werden zunehmend
+   genutzt</description>
+  <description type="1" xml:lang="en">Improved institutional and organizational framework conditions for a climate change
+   adapted management of the Sunderbans ekosystem will increasingly be used</description>
+  <activity-website>https://www.giz.de/projektdaten/projects.action?request_locale=en_EN&amp;pn=201322585</activity-website>
+  <activity-status code="2" xml:lang="en">Implementation</activity-status>
+  <activity-date iso-date="2015-02-19" type="start-actual"/>
+  <contact-info>
+   <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+   <email>RL223@bmz.bund.de</email>
+   <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach
+    12 03 22, 53045 Bonn</mailing-address>
+  </contact-info>
+  <participating-org ref="DE" type="10" role="Funding">BMZ</participating-org>
+  <participating-org role="Implementing">Gesellschaft für internationale Zusammenarbeit (GIZ) GmbH</participating-org>
+  <participating-org role="Implementing">Ministry of Environment and Forests</participating-org>
+  <recipient-country xml:lang="en" code="BD">Bangladesh</recipient-country>
+  <sector vocabulary="DAC" code="41030"/>
+  <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+  <policy-marker code="3" vocabulary="DAC" significance="1">Participatory Development/Good Governance</policy-marker>
+  <policy-marker code="5" vocabulary="DAC" significance="2">Aid Targeting the Objectives of the Convention on Biological
+   Diversity</policy-marker>
+  <policy-marker code="7" vocabulary="DAC" significance="1">Aid Targeting the Objectives of the Framework Convention on Climate Change -
+   Adaptation</policy-marker>
+  <collaboration-type code="1"/>
+  <transaction>
+   <provider-org ref="DE-1">BMZ</provider-org>
+   <flow-type code="10">ODA</flow-type>
+   <tied-status code="3"/>
+   <transaction-type code="C"/>
+   <value currency="EUR" value-date="2015-02-19">5000000</value>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Total amount</description>
+   <value currency="EUR" value-date="2015-10-31">163200</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Personnel costs</description>
+   <value currency="EUR" value-date="2015-10-31">78686</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Material costs</description>
+   <value currency="EUR" value-date="2015-10-31">6706</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Other costs</description>
+   <value currency="EUR" value-date="2015-10-31">77808</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+ </iati-activity><iati-activity iati-extra:version="1.05" xml:lang="de" default-currency="EUR" last-updated-datetime="2015-12-18T17:00:00+01:00" hierarchy="1">
+  <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+  <iati-identifier>DE-1-201306299</iati-identifier>
+  <other-identifier owner-ref="DE-1" owner-name="BMZ">201306299</other-identifier>
+  <title xml:lang="de">Verbesserung des Menschenrechtsschutzes benachteiligter Bevölkerungsgruppen in
+   Bangladesh durch Stärkung zivilgesellschaftlicher Menschenreechtsverteidiger/innen</title>
+  <title xml:lang="en">Strengthening human rights institutionalisation through vulnerable groups'
+   empowerment (STRIVE)</title>
+  <description type="1" xml:lang="en">Strengthening human rights institutionalisation through vulnerable groups'
+   empowerment (STRIVE)</description>
+  <activity-status code="2" xml:lang="en">Implementation</activity-status>
+  <activity-date iso-date="2013-03-01" type="start-actual"/>
+  <activity-date iso-date="2013-03-01" type="start-planned"/>
+  <activity-date iso-date="2017-02-28" type="end-planned"/>
+  <contact-info>
+   <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+   <email>RL110@bmz.bund.de</email>
+   <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach
+    12 03 22, 53045 Bonn</mailing-address>
+  </contact-info>
+  <participating-org ref="DE" type="10" role="Funding">BMZ</participating-org>
+  <participating-org role="Implementing">NETZ - Partnerschaft für Entwicklung und Gerechtigkeit e.
+   V.</participating-org>
+  <recipient-country xml:lang="en" code="BD">Bangladesh</recipient-country>
+  <sector vocabulary="DAC" code="15160"/>
+  <policy-marker code="1" vocabulary="DAC" significance="2">Gender Equality</policy-marker>
+  <policy-marker code="3" vocabulary="DAC" significance="2">Participatory Development/Good Governance</policy-marker>
+  <collaboration-type code="1"/>
+  <transaction>
+   <provider-org ref="DE-1">BMZ</provider-org>
+   <aid-type code="C01"/>
+   <flow-type code="10">ODA</flow-type>
+   <finance-type code="110"/>
+   <tied-status code="5"/>
+   <transaction-date iso-date="2013-03-01"/>
+   <transaction-type code="C"/>
+   <value currency="EUR" value-date="2013-03-01">805009</value>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Total amount</description>
+   <value currency="EUR" value-date="2015-10-31">441103</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+ </iati-activity><iati-activity iati-extra:version="1.05" xml:lang="de" default-currency="EUR" last-updated-datetime="2015-12-18T17:00:00+01:00" hierarchy="1">
+  <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+  <iati-identifier>DE-1-200922401</iati-identifier>
+  <other-identifier owner-ref="DE-1" owner-name="BMZ">200922401</other-identifier>
+  <title xml:lang="de">Ressourcenschutz durch kommunale Wiederaufforstung und Waldbewirtschaftung</title>
+  <title xml:lang="en">Management of Natural Resources and Community Forestry</title>
+  <description type="1" xml:lang="de">Eine nachhaltige und partizipative Waldbewirtschaftung im Chunati Wildlife
+   Sanctuary ist eingeführt.</description>
+  <description type="1" xml:lang="en">Sustainable and participatory forest management has been introduced in Chunati
+   Wildlife Sanctuary.</description>
+  <activity-website>https://www.giz.de/projektdaten/projects.action?request_locale=en_EN&amp;pn=200922401</activity-website>
+  <activity-status code="2" xml:lang="en">Implementation</activity-status>
+  <activity-date iso-date="2009-10-20" type="start-actual"/>
+  <activity-date iso-date="2009-10-20" type="start-planned"/>
+  <activity-date iso-date="2015-06-30" type="end-planned"/>
+  <contact-info>
+   <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+   <email>RL223@bmz.bund.de</email>
+   <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach
+    12 03 22, 53045 Bonn</mailing-address>
+  </contact-info>
+  <participating-org ref="DE" type="10" role="Funding">BMZ</participating-org>
+  <participating-org role="Implementing">Gesellschaft für internationale Zusammenarbeit (GIZ) GmbH</participating-org>
+  <participating-org role="Implementing">Ministry of Environment and Forests</participating-org>
+  <recipient-country xml:lang="en" code="BD">Bangladesh</recipient-country>
+  <sector vocabulary="DAC" code="41030"/>
+  <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+  <policy-marker code="2" vocabulary="DAC" significance="2">Aid to Environment</policy-marker>
+  <policy-marker code="3" vocabulary="DAC" significance="1">Participatory Development/Good Governance</policy-marker>
+  <policy-marker code="5" vocabulary="DAC" significance="2">Aid Targeting the Objectives of the Convention on Biological
+   Diversity</policy-marker>
+  <collaboration-type code="1"/>
+  <transaction>
+   <provider-org ref="DE-1">BMZ</provider-org>
+   <aid-type code="C01"/>
+   <flow-type code="10">ODA</flow-type>
+   <finance-type code="110"/>
+   <tied-status code="3"/>
+   <transaction-date iso-date="2009-10-20"/>
+   <transaction-type code="C"/>
+   <value currency="EUR" value-date="2009-10-20">2500000</value>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Total amount</description>
+   <value currency="EUR" value-date="2015-10-31">2476137</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Personnel costs</description>
+   <value currency="EUR" value-date="2015-10-31">846106</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Material costs</description>
+   <value currency="EUR" value-date="2015-10-31">94302</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Other costs</description>
+   <value currency="EUR" value-date="2015-10-31">1535730</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+ </iati-activity><iati-activity iati-extra:version="1.05" xml:lang="de" default-currency="EUR" last-updated-datetime="2015-12-18T17:00:00+01:00" hierarchy="1">
+  <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+  <iati-identifier>DE-1-201206382</iati-identifier>
+  <other-identifier owner-ref="DE-1" owner-name="BMZ">201206382</other-identifier>
+  <title xml:lang="de">Grundbildung für Kinder aus extrem armen und indigenen Familien in
+   Bangladesch</title>
+  <title xml:lang="en">Primary Education for Children from extreme poor and indigenous Families in
+   Bangladesh</title>
+  <description type="1" xml:lang="en">Primary Education for Children from extreme poor and indigenous Families in
+   Bangladesh</description>
+  <activity-status code="2" xml:lang="en">Implementation</activity-status>
+  <activity-date iso-date="2012-01-01" type="start-actual"/>
+  <activity-date iso-date="2012-01-01" type="start-planned"/>
+  <activity-date iso-date="2015-12-31" type="end-planned"/>
+  <contact-info>
+   <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+   <email>RL110@bmz.bund.de</email>
+   <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach
+    12 03 22, 53045 Bonn</mailing-address>
+  </contact-info>
+  <participating-org ref="DE" type="10" role="Funding">BMZ</participating-org>
+  <participating-org role="Implementing">NETZ - Partnerschaft für Entwicklung und Gerechtigkeit e.
+   V.</participating-org>
+  <recipient-country xml:lang="en" code="BD">Bangladesh</recipient-country>
+  <sector vocabulary="DAC" code="11220"/>
+  <collaboration-type code="1"/>
+  <transaction>
+   <provider-org ref="DE-1">BMZ</provider-org>
+   <aid-type code="C01"/>
+   <flow-type code="10">ODA</flow-type>
+   <finance-type code="110"/>
+   <tied-status code="5"/>
+   <transaction-date iso-date="2012-01-01"/>
+   <transaction-type code="C"/>
+   <value currency="EUR" value-date="2012-01-01">1115335</value>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Total amount</description>
+   <value currency="EUR" value-date="2015-10-31">965625</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+ </iati-activity><iati-activity iati-extra:version="1.05" xml:lang="de" default-currency="EUR" last-updated-datetime="2015-12-18T17:00:00+01:00" hierarchy="1">
+  <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+  <iati-identifier>DE-1-201316868</iati-identifier>
+  <other-identifier owner-ref="DE-1" owner-name="BMZ">201316868</other-identifier>
+  <title xml:lang="de">Integriertes Rehabilitationsprojekt für Arsenopfer mit Kleinkrediten,
+   Vorschulerziehung, Gesundheitsdiensten und Reinigung von arsenverseuchtem Trinkwasser,
+   Bangladesch</title>
+  <title xml:lang="en">Integrated rehabilitation project for arsenicosis-victims with micro-credit,
+   pre-school education, health service and arsenic mitigation, Bangladesh</title>
+  <description type="1" xml:lang="en">Integrated rehabilitation project for arsenicosis-victims with micro-credit,
+   pre-school education, health service and arsenic mitigation, Bangladesh</description>
+  <activity-status code="2" xml:lang="en">Implementation</activity-status>
+  <activity-date iso-date="2013-08-01" type="start-actual"/>
+  <activity-date iso-date="2013-08-01" type="start-planned"/>
+  <activity-date iso-date="2016-12-31" type="end-planned"/>
+  <contact-info>
+   <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+   <email>RL110@bmz.bund.de</email>
+   <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach
+    12 03 22, 53045 Bonn</mailing-address>
+  </contact-info>
+  <participating-org ref="DE" type="10" role="Funding">BMZ</participating-org>
+  <participating-org role="Implementing">Lichtbrücke e. V.</participating-org>
+  <recipient-country xml:lang="en" code="BD">Bangladesh</recipient-country>
+  <sector vocabulary="DAC" code="43040"/>
+  <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+  <collaboration-type code="1"/>
+  <transaction>
+   <provider-org ref="DE-1">BMZ</provider-org>
+   <aid-type code="C01"/>
+   <flow-type code="10">ODA</flow-type>
+   <finance-type code="110"/>
+   <tied-status code="5"/>
+   <transaction-date iso-date="2013-08-01"/>
+   <transaction-type code="C"/>
+   <value currency="EUR" value-date="2013-08-01">366030</value>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Total amount</description>
+   <value currency="EUR" value-date="2015-10-31">225060</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+ </iati-activity><iati-activity iati-extra:version="1.05" xml:lang="de" default-currency="EUR" last-updated-datetime="2015-12-18T17:00:00+01:00" hierarchy="1">
+  <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+  <iati-identifier>DE-1-201421114</iati-identifier>
+  <other-identifier owner-ref="DE-1" owner-name="BMZ">201421114</other-identifier>
+  <title xml:lang="de">Förderung von Sozial- und Umweltstandards in der Industrie</title>
+  <title xml:lang="en">Promotion of Social and Environmental Standards in the Industry</title>
+  <description type="1" xml:lang="de">Fabriken, insbesondere in der Textili-, Bekleidungs- und Lederindustrie, halten
+   vermehrt nationale Umweltgesetze sowie Arbeitsgetze und internationale Standards ein, in denen
+   die Rechte der Arbeiter-innen sichergestellt werden, einschl. der Inklusion von Menschen mit
+   Behinderung.</description>
+  <description type="1" xml:lang="en">Factories in the textile and leather industry keep increasing social and
+   environmental laws and international standards, taking into account the rights of people with
+   disabilities.</description>
+  <activity-website>https://www.giz.de/projektdaten/projects.action?request_locale=en_EN&amp;pn=201421114</activity-website>
+  <activity-status code="2" xml:lang="en">Implementation</activity-status>
+  <activity-date iso-date="2015-03-09" type="start-actual"/>
+  <activity-date iso-date="2015-03-09" type="start-planned"/>
+  <activity-date iso-date="2017-06-30" type="end-planned"/>
+  <contact-info>
+   <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+   <email>RL223@bmz.bund.de</email>
+   <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach
+    12 03 22, 53045 Bonn</mailing-address>
+  </contact-info>
+  <participating-org ref="DE" type="10" role="Funding">BMZ</participating-org>
+  <participating-org role="Implementing">Gesellschaft für internationale Zusammenarbeit (GIZ) GmbH</participating-org>
+  <participating-org role="Implementing">Ministry of Commerce</participating-org>
+  <recipient-country xml:lang="en" code="BD">Bangladesh</recipient-country>
+  <sector vocabulary="DAC" code="25010"/>
+  <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+  <policy-marker code="2" vocabulary="DAC" significance="2">Aid to Environment</policy-marker>
+  <policy-marker code="3" vocabulary="DAC" significance="1">Participatory Development/Good Governance</policy-marker>
+  <policy-marker code="4" vocabulary="DAC" significance="2">Trade Development</policy-marker>
+  <policy-marker code="6" vocabulary="DAC" significance="1">Aid Targeting the Objectives of the Framework Convention on Climate Change -
+   Mitigation</policy-marker>
+  <collaboration-type code="1"/>
+  <transaction>
+   <provider-org ref="DE-1">BMZ</provider-org>
+   <flow-type code="10">ODA</flow-type>
+   <tied-status code="3"/>
+   <transaction-type code="C"/>
+   <value currency="EUR" value-date="2015-03-09">6000000</value>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Total amount</description>
+   <value currency="EUR" value-date="2015-10-31">1566452</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Personnel costs</description>
+   <value currency="EUR" value-date="2015-10-31">681501</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Material costs</description>
+   <value currency="EUR" value-date="2015-10-31">19517</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Other costs</description>
+   <value currency="EUR" value-date="2015-10-31">865435</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+ </iati-activity><iati-activity iati-extra:version="1.05" xml:lang="de" default-currency="EUR" last-updated-datetime="2015-12-18T17:00:00+01:00" hierarchy="1">
+  <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+  <iati-identifier>DE-1-201421098</iati-identifier>
+  <other-identifier owner-ref="DE-1" owner-name="BMZ">201421098</other-identifier>
+  <title xml:lang="de">Unterstützung des Sektorprogramms Gesundheit</title>
+  <title xml:lang="en">Support to Health Sector Programme</title>
+  <description type="1" xml:lang="de">Die Grundlagen für evidenzbasierte Gestaltung und Umsetzung von Reformen im
+   öffentlichen Gesundheitswesens, insbesondere im Hinblick auf dieGewährleistung sozialer
+   Gerichtigkeit, sind geschaffen.</description>
+  <description type="1" xml:lang="en">The foundations for evidence-based policy planning and implementation of reforms in
+   the public health sector to improve social justice are established.</description>
+  <activity-website>https://www.giz.de/projektdaten/projects.action?request_locale=en_EN&amp;pn=201421098</activity-website>
+  <activity-status code="2" xml:lang="en">Implementation</activity-status>
+  <activity-date iso-date="2014-05-30" type="start-actual"/>
+  <activity-date iso-date="2014-05-30" type="start-planned"/>
+  <activity-date iso-date="2016-06-30" type="end-planned"/>
+  <contact-info>
+   <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+   <email>RL223@bmz.bund.de</email>
+   <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach
+    12 03 22, 53045 Bonn</mailing-address>
+  </contact-info>
+  <participating-org ref="DE" type="10" role="Funding">BMZ</participating-org>
+  <participating-org role="Implementing">Gesellschaft für internationale Zusammenarbeit (GIZ) GmbH</participating-org>
+  <participating-org role="Implementing">Ministry of Health and Family Welfare</participating-org>
+  <recipient-country xml:lang="en" code="BD">Bangladesh</recipient-country>
+  <sector vocabulary="DAC" code="12110"/>
+  <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+  <policy-marker code="3" vocabulary="DAC" significance="1">Participatory Development/Good Governance</policy-marker>
+  <collaboration-type code="1"/>
+  <transaction>
+   <provider-org ref="DE-1">BMZ</provider-org>
+   <aid-type code="C01"/>
+   <flow-type code="10">ODA</flow-type>
+   <finance-type code="110"/>
+   <tied-status code="3"/>
+   <transaction-date iso-date="2014-05-30"/>
+   <transaction-type code="C"/>
+   <value currency="EUR" value-date="2014-05-30">2000000</value>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Total amount</description>
+   <value currency="EUR" value-date="2015-10-31">1318179</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Personnel costs</description>
+   <value currency="EUR" value-date="2015-10-31">800813</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Material costs</description>
+   <value currency="EUR" value-date="2015-10-31">23213</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Other costs</description>
+   <value currency="EUR" value-date="2015-10-31">494153</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+ </iati-activity><iati-activity iati-extra:version="1.05" xml:lang="de" default-currency="EUR" last-updated-datetime="2015-12-18T17:00:00+01:00" hierarchy="1">
+  <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+  <iati-identifier>DE-1-201070523</iati-identifier>
+  <other-identifier owner-ref="DE-1" owner-name="BMZ">201070523</other-identifier>
+  <title xml:lang="de">Gesundheits-, Ernährungs- und Bevölkerungsprogramm II - Begleitmaßnahme-</title>
+  <title xml:lang="en">Health, Population and Nutrition Sector Development Program</title>
+  <description type="1" xml:lang="de">Bereitstellung von hochwertiger und bedarfsgerechter technischer Hilfe fir die
+   Durchführung des Sektorprogramms</description>
+  <description type="1" xml:lang="en">The Financial Contribution shall be used for measures accompanying Portion I and
+   expert services, training, studies, workshops and seminars to be implemented in consultation with
+   the Recipient.</description>
+  <activity-status code="2" xml:lang="en">Implementation</activity-status>
+  <activity-date iso-date="2010-12-14" type="start-actual"/>
+  <activity-date iso-date="2012-10-18" type="start-planned"/>
+  <activity-date iso-date="2015-10-18" type="end-planned"/>
+  <contact-info>
+   <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+   <email>RL223@bmz.bund.de</email>
+   <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach
+    12 03 22, 53045 Bonn</mailing-address>
+  </contact-info>
+  <participating-org ref="DE" type="10" role="Funding">BMZ</participating-org>
+  <participating-org role="Implementing">KREDITANSTALT FUER WIEDERAUFBAU (KFW)</participating-org>
+  <participating-org role="Implementing">MINISTRY OF HEALTH AND FAMILY WELFARE (MOHFW)</participating-org>
+  <recipient-country xml:lang="en" code="BD">Bangladesh</recipient-country>
+  <sector vocabulary="DAC" code="12110"/>
+  <policy-marker code="3" vocabulary="DAC" significance="1">Participatory Development/Good Governance</policy-marker>
+  <collaboration-type code="1"/>
+  <transaction>
+   <provider-org ref="DE-1">BMZ</provider-org>
+   <aid-type code="B04"/>
+   <flow-type code="10">ODA</flow-type>
+   <finance-type code="110"/>
+   <tied-status code="5"/>
+   <transaction-date iso-date="2010-12-14"/>
+   <transaction-type code="C"/>
+   <value currency="EUR" value-date="2010-12-14">1000000</value>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Total amount</description>
+   <value currency="EUR" value-date="2015-10-31">299370</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Personnel costs</description>
+   <value currency="EUR" value-date="2015-10-31">0</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Material costs</description>
+   <value currency="EUR" value-date="2015-10-31">0</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Other costs</description>
+   <value currency="EUR" value-date="2015-10-31">0</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+ </iati-activity><iati-activity iati-extra:version="1.05" xml:lang="de" default-currency="EUR" last-updated-datetime="2015-12-18T17:00:00+01:00" hierarchy="1">
+  <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+  <iati-identifier>DE-1-201266436</iati-identifier>
+  <other-identifier owner-ref="DE-1" owner-name="BMZ">201266436</other-identifier>
+  <title xml:lang="de">Verbesserung Stromübertragung in der Westzone Bangladeschs</title>
+  <title xml:lang="en">Improvement of Power Transmission in the Western Zone</title>
+  <description type="1" xml:lang="de">Verbesserung der Stromversorgung in bisher unerschlossenen ländlichen
+   Regionen</description>
+  <description type="1" xml:lang="en">Financing of investments in the transmission network, especially substations as
+   well as associated transmission lines, in the Western Zone of Bangladesh</description>
+  <activity-status code="2" xml:lang="en">Implementation</activity-status>
+  <activity-date iso-date="2012-04-26" type="start-actual"/>
+  <activity-date iso-date="2014-12-15" type="start-planned"/>
+  <activity-date iso-date="2017-12-14" type="end-planned"/>
+  <contact-info>
+   <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+   <email>RL223@bmz.bund.de</email>
+   <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach
+    12 03 22, 53045 Bonn</mailing-address>
+  </contact-info>
+  <participating-org ref="DE" type="10" role="Funding">BMZ</participating-org>
+  <participating-org role="Implementing">KREDITANSTALT FUER WIEDERAUFBAU (KFW)</participating-org>
+  <participating-org role="Implementing">POWER GRID COMPANY OF BANGLADESH LTD.</participating-org>
+  <recipient-country xml:lang="en" code="BD">Bangladesh</recipient-country>
+  <sector vocabulary="DAC" code="23040"/>
+  <policy-marker code="2" vocabulary="DAC" significance="1">Aid to Environment</policy-marker>
+  <policy-marker code="3" vocabulary="DAC" significance="1">Participatory Development/Good Governance</policy-marker>
+  <policy-marker code="6" vocabulary="DAC" significance="1">Aid Targeting the Objectives of the Framework Convention on Climate Change -
+   Mitigation</policy-marker>
+  <collaboration-type code="1"/>
+  <transaction>
+   <provider-org ref="DE-1">BMZ</provider-org>
+   <aid-type code="C01"/>
+   <flow-type code="10">ODA</flow-type>
+   <finance-type code="110"/>
+   <tied-status code="5"/>
+   <transaction-date iso-date="2012-04-26"/>
+   <transaction-type code="C"/>
+   <value currency="EUR" value-date="2012-04-26">15000000</value>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <value currency="EUR" value-date="2015-10-31">0</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Personnel costs</description>
+   <value currency="EUR" value-date="2015-10-31">0</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Material costs</description>
+   <value currency="EUR" value-date="2015-10-31">0</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Other costs</description>
+   <value currency="EUR" value-date="2015-10-31">0</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+ </iati-activity><iati-activity iati-extra:version="1.05" xml:lang="de" default-currency="EUR" last-updated-datetime="2015-12-18T17:00:00+01:00" hierarchy="1">
+  <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+  <iati-identifier>DE-1-201468784</iati-identifier>
+  <other-identifier owner-ref="DE-1" owner-name="BMZ">201468784</other-identifier>
+  <title xml:lang="de">Gesundheits-, Ernährungs- und Bevölkerungsprogramm II </title>
+  <title xml:lang="en">Health Population and Nutrition Sector Development Program II (HPNSDP)
+   2011-2016</title>
+  <description type="1" xml:lang="de">Die FZ leistet einen Beitrag zur Unterstützung der nationalen Gesundheitspolitik,
+   der Verbesserung des Zugangs zur Gesundheitsversorgung und zu einem besseren
+   Gesundheitsstatus.</description>
+  <activity-status code="2" xml:lang="en">Implementation</activity-status>
+  <activity-date iso-date="2014-11-18" type="start-actual"/>
+  <contact-info>
+   <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+   <email>RL223@bmz.bund.de</email>
+   <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach
+    12 03 22, 53045 Bonn</mailing-address>
+  </contact-info>
+  <participating-org ref="DE" type="10" role="Funding">BMZ</participating-org>
+  <participating-org role="Implementing">KREDITANSTALT FUER WIEDERAUFBAU (KFW)</participating-org>
+  <participating-org role="Implementing">MINISTRY OF HEALTH AND FAMILY WELFARE (MOHFW)</participating-org>
+  <recipient-country xml:lang="en" code="BD">Bangladesh</recipient-country>
+  <sector vocabulary="DAC" code="12110"/>
+  <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+  <policy-marker code="3" vocabulary="DAC" significance="1">Participatory Development/Good Governance</policy-marker>
+  <collaboration-type code="1"/>
+  <transaction>
+   <provider-org ref="DE-1">BMZ</provider-org>
+   <flow-type code="10">ODA</flow-type>
+   <transaction-type code="C"/>
+   <value currency="EUR" value-date="2014-11-18">18000000</value>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <value currency="EUR" value-date="2015-10-31">0</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Personnel costs</description>
+   <value currency="EUR" value-date="2015-10-31">0</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Material costs</description>
+   <value currency="EUR" value-date="2015-10-31">0</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Other costs</description>
+   <value currency="EUR" value-date="2015-10-31">0</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+ </iati-activity><iati-activity iati-extra:version="1.05" xml:lang="de" default-currency="EUR" last-updated-datetime="2015-12-18T17:00:00+01:00" hierarchy="1">
+  <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+  <iati-identifier>DE-1-201506344</iati-identifier>
+  <other-identifier owner-ref="DE-1" owner-name="BMZ">201506344</other-identifier>
+  <title xml:lang="de">Ex-Postevaluierung des BMZ-kofinanzierten Projekts "Grundbildung für Kinder aus
+   extrem armen Familien und indigenen Gemeinschaften in Bangladesch"</title>
+  <title xml:lang="en">Ex-postevaluation of the BMZ co-financed projekt "Quality Primary Education for
+   Children from extreme poor Families and Indigenous Children in Bangladesch"</title>
+  <activity-status code="3" xml:lang="en">Completion</activity-status>
+  <activity-date iso-date="2015-02-01" type="start-actual"/>
+  <activity-date iso-date="2015-05-31" type="end-actual"/>
+  <activity-date iso-date="2015-02-01" type="start-planned"/>
+  <activity-date iso-date="2015-05-31" type="end-planned"/>
+  <contact-info>
+   <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+   <email>RL110@bmz.bund.de</email>
+   <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach
+    12 03 22, 53045 Bonn</mailing-address>
+  </contact-info>
+  <participating-org ref="DE" type="10" role="Funding">BMZ</participating-org>
+  <participating-org role="Implementing">NETZ - Partnerschaft für Entwicklung und Gerechtigkeit e.
+   V.</participating-org>
+  <recipient-country xml:lang="en" code="BD">Bangladesh</recipient-country>
+  <sector vocabulary="DAC" code="11220"/>
+  <collaboration-type code="1"/>
+  <transaction>
+   <provider-org ref="DE-1">BMZ</provider-org>
+   <flow-type code="10">ODA</flow-type>
+   <tied-status code="5"/>
+   <transaction-date iso-date="2015-02-01"/>
+   <transaction-type code="C"/>
+   <value currency="EUR" value-date="2015-02-01">10920</value>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Total amount</description>
+   <value currency="EUR" value-date="2015-10-31">10920</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+ </iati-activity><iati-activity iati-extra:version="1.05" xml:lang="de" default-currency="EUR" last-updated-datetime="2015-12-18T17:00:00+01:00" hierarchy="1">
+  <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+  <iati-identifier>DE-1-201216936</iati-identifier>
+  <other-identifier owner-ref="DE-1" owner-name="BMZ">201216936</other-identifier>
+  <title xml:lang="de">Integration und Existenzsicherung von Menschen mit Behinderungen</title>
+  <title xml:lang="en">Integrated Disability and livelihood Project</title>
+  <description type="1" xml:lang="en">Integrated Disability and livelihood Project</description>
+  <activity-status code="2" xml:lang="en">Implementation</activity-status>
+  <activity-date iso-date="2012-10-01" type="start-actual"/>
+  <activity-date iso-date="2012-10-01" type="start-planned"/>
+  <activity-date iso-date="2015-12-31" type="end-planned"/>
+  <contact-info>
+   <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+   <email>RL110@bmz.bund.de</email>
+   <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach
+    12 03 22, 53045 Bonn</mailing-address>
+  </contact-info>
+  <participating-org ref="DE" type="10" role="Funding">BMZ</participating-org>
+  <participating-org role="Implementing">Christoffel-Blindenmission Deutschland e. V.</participating-org>
+  <recipient-country xml:lang="en" code="BD">Bangladesh</recipient-country>
+  <sector vocabulary="DAC" code="11230"/>
+  <collaboration-type code="1"/>
+  <transaction>
+   <provider-org ref="DE-1">BMZ</provider-org>
+   <aid-type code="C01"/>
+   <flow-type code="10">ODA</flow-type>
+   <finance-type code="110"/>
+   <tied-status code="5"/>
+   <transaction-date iso-date="2012-10-01"/>
+   <transaction-type code="C"/>
+   <value currency="EUR" value-date="2012-10-01">475995</value>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Total amount</description>
+   <value currency="EUR" value-date="2015-10-31">391880</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+ </iati-activity><iati-activity iati-extra:version="1.05" xml:lang="de" default-currency="EUR" last-updated-datetime="2015-12-18T17:00:00+01:00" hierarchy="1">
+  <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+  <iati-identifier>DE-1-200820720</iati-identifier>
+  <other-identifier owner-ref="DE-1" owner-name="BMZ">200820720</other-identifier>
+  <title xml:lang="de">Sicherung der Biodiversität von Feuchtgebieten</title>
+  <title xml:lang="en">Wetland Biodiversity Protection Project</title>
+  <description type="1" xml:lang="de">Die Umsetzung von integriertem Resourcenmanagement durch lokale Nutzer in
+   Zusammenarbeit mit lokalen Fachbehörden trägt zur Sicherung der Biodiversität und
+   Lebensgrundlagen in Feucht- und Überschwemmungsgebieten des Pabna Distrikts und angerenzender
+   Distrikte bei.</description>
+  <description type="1" xml:lang="en">Implementation of integrated resource management by local users contributes to
+   conserving the biodiversity and vital resources in the wetlands and flood plains of Pabna
+   district</description>
+  <activity-website>https://www.giz.de/projektdaten/projects.action?request_locale=en_EN&amp;pn=200820720</activity-website>
+  <activity-status code="2" xml:lang="en">Implementation</activity-status>
+  <activity-date iso-date="2008-10-09" type="start-actual"/>
+  <activity-date iso-date="2008-10-09" type="start-planned"/>
+  <activity-date iso-date="2015-05-31" type="end-planned"/>
+  <contact-info>
+   <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+   <email>RL223@bmz.bund.de</email>
+   <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach
+    12 03 22, 53045 Bonn</mailing-address>
+  </contact-info>
+  <participating-org ref="DE" type="10" role="Funding">BMZ</participating-org>
+  <participating-org role="Implementing">Gesellschaft für internationale Zusammenarbeit (GIZ) GmbH</participating-org>
+  <participating-org role="Implementing">Department of Fisheries</participating-org>
+  <recipient-country xml:lang="en" code="BD">Bangladesh</recipient-country>
+  <sector vocabulary="DAC" code="41030"/>
+  <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+  <policy-marker code="2" vocabulary="DAC" significance="2">Aid to Environment</policy-marker>
+  <policy-marker code="3" vocabulary="DAC" significance="1">Participatory Development/Good Governance</policy-marker>
+  <policy-marker code="5" vocabulary="DAC" significance="2">Aid Targeting the Objectives of the Convention on Biological
+   Diversity</policy-marker>
+  <policy-marker code="6" vocabulary="DAC" significance="1">Aid Targeting the Objectives of the Framework Convention on Climate Change -
+   Mitigation</policy-marker>
+  <policy-marker code="7" vocabulary="DAC" significance="1">Aid Targeting the Objectives of the Framework Convention on Climate Change -
+   Adaptation</policy-marker>
+  <collaboration-type code="1"/>
+  <transaction>
+   <provider-org ref="DE-1">BMZ</provider-org>
+   <aid-type code="C01"/>
+   <flow-type code="10">ODA</flow-type>
+   <finance-type code="110"/>
+   <tied-status code="3"/>
+   <transaction-date iso-date="2008-10-09"/>
+   <transaction-type code="C"/>
+   <value currency="EUR" value-date="2008-10-09">7500000</value>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Total amount</description>
+   <value currency="EUR" value-date="2015-10-31">6771762</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Personnel costs</description>
+   <value currency="EUR" value-date="2015-10-31">3187285</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Material costs</description>
+   <value currency="EUR" value-date="2015-10-31">421831</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Other costs</description>
+   <value currency="EUR" value-date="2015-10-31">3162646</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+ </iati-activity><iati-activity iati-extra:version="1.05" xml:lang="de" default-currency="EUR" last-updated-datetime="2015-12-18T17:00:00+01:00" hierarchy="1">
+  <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+  <iati-identifier>DE-1-201022201</iati-identifier>
+  <other-identifier owner-ref="DE-1" owner-name="BMZ">201022201</other-identifier>
+  <title xml:lang="de">Nachhaltige Entwicklung und Sicherung der Biodiversität von
+   Küstenschutzwäldern</title>
+  <title xml:lang="en">Sustainable Development and Biodiversity Conservation in Coastal Protection
+   Forests</title>
+  <description type="1" xml:lang="de">Kommunen und relevante Behörden haben erweiterte Kentnisse und Fähigkeiten für den
+   Erhalt der Biodiversität in den ökologisch sensiblen Deichzonen der Sundarbans und deren
+   Anpassung an den Klimawandel</description>
+  <description type="1" xml:lang="en">Municipalities and relevant authorities have extended their knowledge and skills
+   concerning preservation of biodiversity in the environmentally sensitive embankment areas of the
+   Sundarbans and adaptation to climate change in these areas.</description>
+  <activity-website>https://www.giz.de/projektdaten/projects.action?request_locale=en_EN&amp;pn=201022201</activity-website>
+  <activity-status code="2" xml:lang="en">Implementation</activity-status>
+  <activity-date iso-date="2010-09-09" type="start-actual"/>
+  <activity-date iso-date="2010-09-09" type="start-planned"/>
+  <activity-date iso-date="2014-12-31" type="end-planned"/>
+  <contact-info>
+   <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+   <email>RL223@bmz.bund.de</email>
+   <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach
+    12 03 22, 53045 Bonn</mailing-address>
+  </contact-info>
+  <participating-org ref="DE" type="10" role="Funding">BMZ</participating-org>
+  <participating-org role="Implementing">Gesellschaft für internationale Zusammenarbeit (GIZ) GmbH</participating-org>
+  <participating-org role="Implementing">Ministry of Environment and Forests</participating-org>
+  <recipient-country xml:lang="en" code="BD">Bangladesh</recipient-country>
+  <sector vocabulary="DAC" code="41030"/>
+  <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+  <policy-marker code="2" vocabulary="DAC" significance="2">Aid to Environment</policy-marker>
+  <policy-marker code="3" vocabulary="DAC" significance="1">Participatory Development/Good Governance</policy-marker>
+  <policy-marker code="5" vocabulary="DAC" significance="2">Aid Targeting the Objectives of the Convention on Biological
+   Diversity</policy-marker>
+  <collaboration-type code="1"/>
+  <transaction>
+   <provider-org ref="DE-1">BMZ</provider-org>
+   <aid-type code="C01"/>
+   <flow-type code="10">ODA</flow-type>
+   <finance-type code="110"/>
+   <tied-status code="3"/>
+   <transaction-date iso-date="2010-09-09"/>
+   <transaction-type code="C"/>
+   <value currency="EUR" value-date="2010-09-09">4000000</value>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Total amount</description>
+   <value currency="EUR" value-date="2015-10-31">3498801</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Personnel costs</description>
+   <value currency="EUR" value-date="2015-10-31">1489206</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Material costs</description>
+   <value currency="EUR" value-date="2015-10-31">257026</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Other costs</description>
+   <value currency="EUR" value-date="2015-10-31">1752569</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+ </iati-activity><iati-activity iati-extra:version="1.05" xml:lang="de" default-currency="EUR" last-updated-datetime="2015-12-18T17:00:00+01:00" hierarchy="1">
+  <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+  <iati-identifier>DE-1-200135012</iati-identifier>
+  <other-identifier owner-ref="DE-1" owner-name="BMZ">200135012</other-identifier>
+  <title xml:lang="de">Studien- und Fachkräftefonds</title>
+  <title xml:lang="en">Studies and Expert Fund</title>
+  <description type="1" xml:lang="de">Vorbereitung von TZ-Vorhaben, Kurzzeitmaßnahmen mit dringlichem Charakter, Studien,
+   Gutachten, Werkleistungen, TZ-Vorhaben geringen Umfangs</description>
+  <description type="1" xml:lang="en">Implementation of specific measures for the purpose of examination and preparation
+   of projects and the preparation of studies and reports</description>
+  <activity-website>https://www.giz.de/projektdaten/projects.action?request_locale=en_EN&amp;pn=200135012</activity-website>
+  <activity-status code="2" xml:lang="en">Implementation</activity-status>
+  <activity-date iso-date="2001-06-01" type="start-actual"/>
+  <activity-date iso-date="2001-06-01" type="start-planned"/>
+  <activity-date iso-date="2014-12-31" type="end-planned"/>
+  <contact-info>
+   <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+   <email>RL223@bmz.bund.de</email>
+   <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach
+    12 03 22, 53045 Bonn</mailing-address>
+  </contact-info>
+  <participating-org ref="DE" type="10" role="Funding">BMZ</participating-org>
+  <participating-org role="Implementing">Gesellschaft für internationale Zusammenarbeit (GIZ) GmbH</participating-org>
+  <participating-org role="Implementing">Finanzministerium (Economic Relations Division - ERD)</participating-org>
+  <recipient-country xml:lang="en" code="BD">Bangladesh</recipient-country>
+  <sector vocabulary="DAC" code="43010"/>
+  <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+  <policy-marker code="2" vocabulary="DAC" significance="1">Aid to Environment</policy-marker>
+  <policy-marker code="3" vocabulary="DAC" significance="1">Participatory Development/Good Governance</policy-marker>
+  <collaboration-type code="1"/>
+  <transaction>
+   <provider-org ref="DE-1">BMZ</provider-org>
+   <aid-type code="C01"/>
+   <flow-type code="10">ODA</flow-type>
+   <finance-type code="110"/>
+   <tied-status code="3"/>
+   <transaction-date iso-date="2001-06-01"/>
+   <transaction-type code="C"/>
+   <value currency="EUR" value-date="2001-06-01">8444876</value>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Total amount</description>
+   <value currency="EUR" value-date="2015-10-31">5105829</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Personnel costs</description>
+   <value currency="EUR" value-date="2015-10-31">2493809</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Material costs</description>
+   <value currency="EUR" value-date="2015-10-31">248225</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Other costs</description>
+   <value currency="EUR" value-date="2015-10-31">2363796</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+ </iati-activity><iati-activity iati-extra:version="1.05" xml:lang="de" default-currency="EUR" last-updated-datetime="2015-12-18T17:00:00+01:00" hierarchy="1">
+  <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+  <iati-identifier>DE-1-201467976</iati-identifier>
+  <other-identifier owner-ref="DE-1" owner-name="BMZ">201467976</other-identifier>
+  <title xml:lang="de">Energieeffizienz in der netzgebundenen Stromversorgung (Komponente
+   Länderquote)</title>
+  <title xml:lang="en">Efficiency Improvement in the grid-based Power Supply System</title>
+  <description type="1" xml:lang="de">Das Projektziel ist die Verbesserung der Energieeffizienz im Bereich des nationalen
+   Stromversorgungsnetzes von Bangladesch</description>
+  <activity-status code="1" xml:lang="en">Pipeline/identification</activity-status>
+  <contact-info>
+   <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+   <email>RL223@bmz.bund.de</email>
+   <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach
+    12 03 22, 53045 Bonn</mailing-address>
+  </contact-info>
+  <participating-org ref="DE" type="10" role="Funding">BMZ</participating-org>
+  <participating-org role="Implementing">KREDITANSTALT FUER WIEDERAUFBAU (KFW)</participating-org>
+  <participating-org role="Implementing">POWER GRID COMPANY OF BANGLADESH LTD.</participating-org>
+  <recipient-country xml:lang="en" code="BD">Bangladesh</recipient-country>
+  <sector vocabulary="DAC" code="23630"/>
+  <policy-marker code="2" vocabulary="DAC" significance="1">Aid to Environment</policy-marker>
+  <policy-marker code="6" vocabulary="DAC" significance="1">Aid Targeting the Objectives of the Framework Convention on Climate Change -
+   Mitigation</policy-marker>
+  <collaboration-type code="1"/>
+  <transaction>
+   <provider-org ref="DE-1">BMZ</provider-org>
+   <flow-type code="10">ODA</flow-type>
+   <transaction-type code="C"/>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <value currency="EUR" value-date="2015-10-31">0</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Personnel costs</description>
+   <value currency="EUR" value-date="2015-10-31">0</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Material costs</description>
+   <value currency="EUR" value-date="2015-10-31">0</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Other costs</description>
+   <value currency="EUR" value-date="2015-10-31">0</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+ </iati-activity><iati-activity iati-extra:version="1.05" xml:lang="de" default-currency="EUR" last-updated-datetime="2015-12-18T17:00:00+01:00" hierarchy="1">
+  <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+  <iati-identifier>DE-1-201216753</iati-identifier>
+  <other-identifier owner-ref="DE-1" owner-name="BMZ">201216753</other-identifier>
+  <title xml:lang="de">Aufbau und Betrieb von Grundschulen für Kinder aus extrem armen Familien in den
+   Distrikten Gaibandha und Kurigram, Bangladesh</title>
+  <title xml:lang="en">Setting up and Operating Primary Schools for Children from Extreme Poor Families in
+   the Districts of Gaibandha and Kurigram, Bangladesh</title>
+  <description type="1" xml:lang="en">Setting up and Operating Primary Schools for Children from Extreme Poor Families in
+   the Districts of Gaibandha and Kurigram, Bangladesh</description>
+  <activity-status code="2" xml:lang="en">Implementation</activity-status>
+  <activity-date iso-date="2012-09-01" type="start-actual"/>
+  <activity-date iso-date="2012-09-01" type="start-planned"/>
+  <activity-date iso-date="2015-12-31" type="end-planned"/>
+  <contact-info>
+   <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+   <email>RL110@bmz.bund.de</email>
+   <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach
+    12 03 22, 53045 Bonn</mailing-address>
+  </contact-info>
+  <participating-org ref="DE" type="10" role="Funding">BMZ</participating-org>
+  <participating-org role="Implementing">German Doctors e.V. (alt: Ärzte für die Dritte Welt)</participating-org>
+  <recipient-country xml:lang="en" code="BD">Bangladesh</recipient-country>
+  <sector vocabulary="DAC" code="11220"/>
+  <collaboration-type code="1"/>
+  <transaction>
+   <provider-org ref="DE-1">BMZ</provider-org>
+   <aid-type code="C01"/>
+   <flow-type code="10">ODA</flow-type>
+   <finance-type code="110"/>
+   <tied-status code="5"/>
+   <transaction-date iso-date="2012-09-01"/>
+   <transaction-type code="C"/>
+   <value currency="EUR" value-date="2012-09-01">702504</value>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Total amount</description>
+   <value currency="EUR" value-date="2015-10-31">612504</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+ </iati-activity><iati-activity iati-extra:version="1.05" xml:lang="de" default-currency="EUR" last-updated-datetime="2015-12-18T17:00:00+01:00" hierarchy="1">
+  <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+  <iati-identifier>DE-1-200922054</iati-identifier>
+  <other-identifier owner-ref="DE-1" owner-name="BMZ">200922054</other-identifier>
+  <title xml:lang="de">Förderung von Sozial- und Umweltstandards in der Industrie</title>
+  <title xml:lang="en">Promotion of Social and Environmental Standards in the Industry</title>
+  <description type="1" xml:lang="de">In der bangl. Textilindustrie werden nationale Arbeits- und Umweltgesetze sowie
+   internationale Standards vermehrt eingehalten.</description>
+  <description type="1" xml:lang="en">Entrepreneurs, primarily in the textile industry, increasingly comply with national
+   labour and environmental laws and international standards</description>
+  <activity-website>https://www.giz.de/projektdaten/projects.action?request_locale=en_EN&amp;pn=200922054</activity-website>
+  <activity-status code="2" xml:lang="en">Implementation</activity-status>
+  <activity-date iso-date="2009-03-04" type="start-actual"/>
+  <activity-date iso-date="2009-03-04" type="start-planned"/>
+  <activity-date iso-date="2014-12-31" type="end-planned"/>
+  <contact-info>
+   <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+   <email>RL223@bmz.bund.de</email>
+   <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach
+    12 03 22, 53045 Bonn</mailing-address>
+  </contact-info>
+  <participating-org ref="DE" type="10" role="Funding">BMZ</participating-org>
+  <participating-org role="Implementing">Gesellschaft für internationale Zusammenarbeit (GIZ) GmbH</participating-org>
+  <participating-org role="Implementing">Ministry of Commerce</participating-org>
+  <recipient-country xml:lang="en" code="BD">Bangladesh</recipient-country>
+  <sector vocabulary="DAC" code="25010"/>
+  <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+  <policy-marker code="2" vocabulary="DAC" significance="2">Aid to Environment</policy-marker>
+  <policy-marker code="4" vocabulary="DAC" significance="2">Trade Development</policy-marker>
+  <policy-marker code="6" vocabulary="DAC" significance="1">Aid Targeting the Objectives of the Framework Convention on Climate Change -
+   Mitigation</policy-marker>
+  <collaboration-type code="1"/>
+  <transaction>
+   <provider-org ref="DE-1">BMZ</provider-org>
+   <aid-type code="C01"/>
+   <flow-type code="10">ODA</flow-type>
+   <finance-type code="110"/>
+   <tied-status code="3"/>
+   <transaction-date iso-date="2009-03-04"/>
+   <transaction-type code="C"/>
+   <value currency="EUR" value-date="2009-03-04">7720000</value>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Total amount</description>
+   <value currency="EUR" value-date="2015-10-31">7718576</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Personnel costs</description>
+   <value currency="EUR" value-date="2015-10-31">3923494</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Material costs</description>
+   <value currency="EUR" value-date="2015-10-31">350961</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Other costs</description>
+   <value currency="EUR" value-date="2015-10-31">3444121</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+ </iati-activity><iati-activity iati-extra:version="1.05" xml:lang="de" default-currency="EUR" last-updated-datetime="2015-12-18T17:00:00+01:00" hierarchy="1">
+  <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+  <iati-identifier>DE-1-201406164</iati-identifier>
+  <other-identifier owner-ref="DE-1" owner-name="BMZ">201406164</other-identifier>
+  <title xml:lang="de">Capacity Building zur Überwindung struktureller Armut in Randgebieten
+   Bangladeschs</title>
+  <title xml:lang="en">Structural Alleviation of Poverty and Marginalisation in the Poorest Regions of
+   Bangladesh</title>
+  <description type="1" xml:lang="en">Structural Alleviation of Poverty and Marginalisation in the Poorest Regions of
+   Bangladesh</description>
+  <activity-status code="2" xml:lang="en">Implementation</activity-status>
+  <activity-date iso-date="2014-05-01" type="start-actual"/>
+  <activity-date iso-date="2014-05-01" type="start-planned"/>
+  <activity-date iso-date="2017-01-31" type="end-planned"/>
+  <contact-info>
+   <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+   <email>RL110@bmz.bund.de</email>
+   <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach
+    12 03 22, 53045 Bonn</mailing-address>
+  </contact-info>
+  <participating-org ref="DE" type="10" role="Funding">BMZ</participating-org>
+  <participating-org role="Implementing">NETZ - Partnerschaft für Entwicklung und Gerechtigkeit e.
+   V.</participating-org>
+  <recipient-country xml:lang="en" code="BD">Bangladesh</recipient-country>
+  <sector vocabulary="DAC" code="15160"/>
+  <policy-marker code="1" vocabulary="DAC" significance="2">Gender Equality</policy-marker>
+  <policy-marker code="3" vocabulary="DAC" significance="2">Participatory Development/Good Governance</policy-marker>
+  <collaboration-type code="1"/>
+  <transaction>
+   <provider-org ref="DE-1">BMZ</provider-org>
+   <aid-type code="C01"/>
+   <flow-type code="10">ODA</flow-type>
+   <finance-type code="110"/>
+   <tied-status code="5"/>
+   <transaction-date iso-date="2014-05-01"/>
+   <transaction-type code="C"/>
+   <value currency="EUR" value-date="2014-05-01">525438</value>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Total amount</description>
+   <value currency="EUR" value-date="2015-10-31">281834</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+ </iati-activity><iati-activity iati-extra:version="1.05" xml:lang="de" default-currency="EUR" last-updated-datetime="2015-12-18T17:00:00+01:00" hierarchy="1">
+  <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+  <iati-identifier>DE-1-201255223</iati-identifier>
+  <other-identifier owner-ref="DE-1" owner-name="BMZ">201255223</other-identifier>
+  <title xml:lang="de">Aufbau und Betrieb von 14 Grundschulen in Bangladesch</title>
+  <title xml:lang="en">Quality primary education for children from extreme poor families in Bangladesh -
+   construction and management of 14 community schools in Bangladesh</title>
+  <description type="1" xml:lang="en">Quality primary education for children from extreme poor families in Bangladesh -
+   construction and management of 14 community schools in Bangladesh</description>
+  <activity-status code="2" xml:lang="en">Implementation</activity-status>
+  <activity-date iso-date="2012-11-01" type="start-actual"/>
+  <activity-date iso-date="2012-11-01" type="start-planned"/>
+  <activity-date iso-date="2015-12-31" type="end-planned"/>
+  <contact-info>
+   <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+   <email>RL110@bmz.bund.de</email>
+   <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach
+    12 03 22, 53045 Bonn</mailing-address>
+  </contact-info>
+  <participating-org ref="DE" type="10" role="Funding">BMZ</participating-org>
+  <participating-org role="Implementing">NETZ - Partnerschaft für Entwicklung und Gerechtigkeit e.
+   V.</participating-org>
+  <recipient-country xml:lang="en" code="BD">Bangladesh</recipient-country>
+  <sector vocabulary="DAC" code="11220"/>
+  <collaboration-type code="1"/>
+  <transaction>
+   <provider-org ref="DE-1">BMZ</provider-org>
+   <aid-type code="C01"/>
+   <flow-type code="10">ODA</flow-type>
+   <finance-type code="110"/>
+   <tied-status code="5"/>
+   <transaction-date iso-date="2012-11-01"/>
+   <transaction-type code="C"/>
+   <value currency="EUR" value-date="2012-11-01">466564</value>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Total amount</description>
+   <value currency="EUR" value-date="2015-10-31">420058</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+ </iati-activity><iati-activity iati-extra:version="1.05" xml:lang="de" default-currency="EUR" last-updated-datetime="2015-12-18T17:00:00+01:00" hierarchy="1">
+  <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+  <iati-identifier>DE-1-201266428</iati-identifier>
+  <other-identifier owner-ref="DE-1" owner-name="BMZ">201266428</other-identifier>
+  <title xml:lang="de">Produktive Nutzung Erneuerbare Energien</title>
+  <title xml:lang="en">Productive Use of Renewable Energy Programme (PUREP)</title>
+  <description type="1" xml:lang="de">Stärkung der ländlichen Wirtschaft durch Nutzung erneuerbarer
+   energien</description>
+  <description type="1" xml:lang="en">Financing of a programme to support decentralised renewable energy predominantly
+   for productive use as needed across the country</description>
+  <activity-status code="2" xml:lang="en">Implementation</activity-status>
+  <activity-date iso-date="2012-04-26" type="start-actual"/>
+  <activity-date iso-date="2014-02-11" type="start-planned"/>
+  <activity-date iso-date="2017-02-10" type="end-planned"/>
+  <contact-info>
+   <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+   <email>RL223@bmz.bund.de</email>
+   <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach
+    12 03 22, 53045 Bonn</mailing-address>
+  </contact-info>
+  <participating-org ref="DE" type="10" role="Funding">BMZ</participating-org>
+  <participating-org role="Implementing">KREDITANSTALT FUER WIEDERAUFBAU (KFW)</participating-org>
+  <participating-org role="Implementing">INFRASTRUCTURE DEVELOPMENT COMPANY LTD.</participating-org>
+  <recipient-country xml:lang="en" code="BD">Bangladesh</recipient-country>
+  <sector vocabulary="DAC" code="23030"/>
+  <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+  <policy-marker code="2" vocabulary="DAC" significance="2">Aid to Environment</policy-marker>
+  <policy-marker code="6" vocabulary="DAC" significance="2">Aid Targeting the Objectives of the Framework Convention on Climate Change -
+   Mitigation</policy-marker>
+  <collaboration-type code="1"/>
+  <transaction>
+   <provider-org ref="DE-1">BMZ</provider-org>
+   <aid-type code="C01"/>
+   <flow-type code="10">ODA</flow-type>
+   <finance-type code="110"/>
+   <tied-status code="5"/>
+   <transaction-date iso-date="2012-04-26"/>
+   <transaction-type code="C"/>
+   <value currency="EUR" value-date="2012-04-26">10513403</value>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <value currency="EUR" value-date="2015-10-31">0</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Personnel costs</description>
+   <value currency="EUR" value-date="2015-10-31">0</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Material costs</description>
+   <value currency="EUR" value-date="2015-10-31">0</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Other costs</description>
+   <value currency="EUR" value-date="2015-10-31">0</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+ </iati-activity><iati-activity iati-extra:version="1.05" xml:lang="de" default-currency="EUR" last-updated-datetime="2015-12-18T17:00:00+01:00" hierarchy="1">
+  <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+  <iati-identifier>DE-1-201315522</iati-identifier>
+  <other-identifier owner-ref="DE-1" owner-name="BMZ">201315522</other-identifier>
+  <title xml:lang="de">Familien basierter Ansatz zur Umsetzung von mehr Geschlechtergerechtigkeit und
+   größerer Ernährungssicherheit für extrem arme Bevölkerungsgruppen</title>
+  <title xml:lang="en">Enhancing gender equality and food security for the extreme poor through a family
+   based approach</title>
+  <description type="1" xml:lang="en">Enhancing gender equality and food security for the extreme poor through a family
+   based approach</description>
+  <activity-status code="2" xml:lang="en">Implementation</activity-status>
+  <activity-date iso-date="2013-11-01" type="start-actual"/>
+  <activity-date iso-date="2013-11-01" type="start-planned"/>
+  <activity-date iso-date="2016-10-30" type="end-planned"/>
+  <contact-info>
+   <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+   <email>RL110@bmz.bund.de</email>
+   <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach
+    12 03 22, 53045 Bonn</mailing-address>
+  </contact-info>
+  <participating-org ref="DE" type="10" role="Funding">BMZ</participating-org>
+  <participating-org role="Implementing">Mati e.V.</participating-org>
+  <recipient-country xml:lang="en" code="BD">Bangladesh</recipient-country>
+  <sector vocabulary="DAC" code="15170"/>
+  <policy-marker code="1" vocabulary="DAC" significance="2">Gender Equality</policy-marker>
+  <collaboration-type code="1"/>
+  <transaction>
+   <provider-org ref="DE-1">BMZ</provider-org>
+   <aid-type code="C01"/>
+   <flow-type code="10">ODA</flow-type>
+   <finance-type code="110"/>
+   <tied-status code="5"/>
+   <transaction-date iso-date="2013-11-01"/>
+   <transaction-type code="C"/>
+   <value currency="EUR" value-date="2013-11-01">284351</value>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Total amount</description>
+   <value currency="EUR" value-date="2015-10-31">209098</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+ </iati-activity><iati-activity iati-extra:version="1.05" xml:lang="de" default-currency="EUR" last-updated-datetime="2015-12-18T17:00:00+01:00" hierarchy="1">
+  <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+  <iati-identifier>DE-1-200565598</iati-identifier>
+  <other-identifier owner-ref="DE-1" owner-name="BMZ">200565598</other-identifier>
+  <title xml:lang="de">KV-Ländliche Märkte in den Regionen Dhaka, Rajshahi und Chittagong</title>
+  <title xml:lang="en">Rural Markets in the Regions Dhaka, Rajshahi, and Chittagong</title>
+  <description type="1" xml:lang="de">Förderung lokaler und regionaler Wirtschaftsentwicklung</description>
+  <description type="1" xml:lang="en">Financial contribution shall improve access to basic social and economic
+   infrastructure institutions in order to improve income situation, local government and gender
+   equality.</description>
+  <activity-status code="2" xml:lang="en">Implementation</activity-status>
+  <activity-date iso-date="2005-06-24" type="start-actual"/>
+  <activity-date iso-date="2008-05-23" type="start-planned"/>
+  <activity-date iso-date="2011-05-23" type="end-planned"/>
+  <contact-info>
+   <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+   <email>RL223@bmz.bund.de</email>
+   <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach
+    12 03 22, 53045 Bonn</mailing-address>
+  </contact-info>
+  <participating-org ref="DE" type="10" role="Funding">BMZ</participating-org>
+  <participating-org role="Implementing">KREDITANSTALT FUER WIEDERAUFBAU (KFW)</participating-org>
+  <participating-org role="Implementing">LOCAL GOVT. ENGINEERING DEPT. THE PROJECT DIRECTOR</participating-org>
+  <recipient-country xml:lang="en" code="BD">Bangladesh</recipient-country>
+  <sector vocabulary="DAC" code="43040"/>
+  <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+  <policy-marker code="2" vocabulary="DAC" significance="1">Aid to Environment</policy-marker>
+  <policy-marker code="3" vocabulary="DAC" significance="1">Participatory Development/Good Governance</policy-marker>
+  <collaboration-type code="1"/>
+  <transaction>
+   <provider-org ref="DE-1">BMZ</provider-org>
+   <aid-type code="C01"/>
+   <flow-type code="10">ODA</flow-type>
+   <finance-type code="110"/>
+   <transaction-date iso-date="2005-06-24"/>
+   <transaction-type code="C"/>
+   <value currency="EUR" value-date="2005-06-24">18400000</value>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Total amount</description>
+   <value currency="EUR" value-date="2015-10-31">17404840</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Personnel costs</description>
+   <value currency="EUR" value-date="2015-10-31">0</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Material costs</description>
+   <value currency="EUR" value-date="2015-10-31">0</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Other costs</description>
+   <value currency="EUR" value-date="2015-10-31">0</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+ </iati-activity><iati-activity iati-extra:version="1.05" xml:lang="de" default-currency="EUR" last-updated-datetime="2015-12-18T17:00:00+01:00" hierarchy="1">
+  <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+  <iati-identifier>DE-1-199965179</iati-identifier>
+  <other-identifier owner-ref="DE-1" owner-name="BMZ">199965179</other-identifier>
+  <title xml:lang="de">VORKASSEZAEHLER FUER STROMVERBRAUCH (PILOTVORHABEN)</title>
+  <title xml:lang="en">Prepayment Metering Pilot Scheme</title>
+  <activity-status code="2" xml:lang="en">Implementation</activity-status>
+  <activity-date iso-date="2000-01-31" type="start-actual"/>
+  <contact-info>
+   <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+   <email>RL223@bmz.bund.de</email>
+   <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach
+    12 03 22, 53045 Bonn</mailing-address>
+  </contact-info>
+  <participating-org ref="DE" type="10" role="Funding">BMZ</participating-org>
+  <participating-org role="Implementing">KREDITANSTALT FUER WIEDERAUFBAU (KFW)</participating-org>
+  <participating-org role="Implementing">MINISTRY OF FINANCE ECONOMIC RELATIONS DIVISION</participating-org>
+  <recipient-country xml:lang="en" code="BD">Bangladesh</recipient-country>
+  <sector vocabulary="DAC" code="23630"/>
+  <collaboration-type code="1"/>
+  <transaction>
+   <provider-org ref="DE-1">BMZ</provider-org>
+   <flow-type code="10">ODA</flow-type>
+   <transaction-type code="C"/>
+   <value currency="EUR" value-date="2000-01-31">4090335</value>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Total amount</description>
+   <value currency="EUR" value-date="2015-10-31">4017906</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Personnel costs</description>
+   <value currency="EUR" value-date="2015-10-31">0</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Material costs</description>
+   <value currency="EUR" value-date="2015-10-31">0</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Other costs</description>
+   <value currency="EUR" value-date="2015-10-31">0</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+ </iati-activity><iati-activity iati-extra:version="1.05" xml:lang="de" default-currency="EUR" last-updated-datetime="2015-12-18T17:00:00+01:00" hierarchy="1">
+  <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+  <iati-identifier>DE-1-201421072</iati-identifier>
+  <other-identifier owner-ref="DE-1" owner-name="BMZ">201421072</other-identifier>
+  <title xml:lang="de">Klimaanpassung in Städten</title>
+  <title xml:lang="en">Adaption to Climate Change into the National and Local Development Planning</title>
+  <description type="1" xml:lang="de">Die Nutzung verbesserter Instrumente, Methoden und Wissensprodukte stärkt die
+   klimaresiliente und partizipative und Planung von öffentlichen Investionsprojekten in
+   Bangladesch</description>
+  <description type="1" xml:lang="en">The use of improved tools, methods and knowledge products will strengthen the
+   climate-resilient and participatory planning of public investment projects in
+   Bangladesh</description>
+  <activity-website>https://www.giz.de/projektdaten/projects.action?request_locale=en_EN&amp;pn=201421072</activity-website>
+  <activity-status code="1" xml:lang="en">Pipeline/identification</activity-status>
+  <contact-info>
+   <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+   <email>RL223@bmz.bund.de</email>
+   <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach
+    12 03 22, 53045 Bonn</mailing-address>
+  </contact-info>
+  <participating-org ref="DE" type="10" role="Funding">BMZ</participating-org>
+  <participating-org role="Implementing">Gesellschaft für internationale Zusammenarbeit (GIZ) GmbH</participating-org>
+  <participating-org role="Implementing">Ministry of Planning</participating-org>
+  <recipient-country xml:lang="en" code="BD">Bangladesh</recipient-country>
+  <sector vocabulary="DAC" code="43030"/>
+  <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+  <policy-marker code="2" vocabulary="DAC" significance="1">Aid to Environment</policy-marker>
+  <policy-marker code="3" vocabulary="DAC" significance="2">Participatory Development/Good Governance</policy-marker>
+  <policy-marker code="7" vocabulary="DAC" significance="2">Aid Targeting the Objectives of the Framework Convention on Climate Change -
+   Adaptation</policy-marker>
+  <collaboration-type code="1"/>
+  <transaction>
+   <provider-org ref="DE-1">BMZ</provider-org>
+   <flow-type code="10">ODA</flow-type>
+   <tied-status code="3"/>
+   <transaction-type code="C"/>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <value currency="EUR" value-date="2015-10-31">0</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Personnel costs</description>
+   <value currency="EUR" value-date="2015-10-31">0</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Material costs</description>
+   <value currency="EUR" value-date="2015-10-31">0</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Other costs</description>
+   <value currency="EUR" value-date="2015-10-31">0</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+ </iati-activity><iati-activity iati-extra:version="1.05" xml:lang="de" default-currency="EUR" last-updated-datetime="2015-12-18T17:00:00+01:00" hierarchy="1">
+  <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+  <iati-identifier>DE-1-201506203</iati-identifier>
+  <other-identifier owner-ref="DE-1" owner-name="BMZ">201506203</other-identifier>
+  <title xml:lang="de">Ex-Post Evaluierung von vier abgeschlossenen Kleinkredit-Projekten in
+   Bangladesch</title>
+  <title xml:lang="en">Ex-Post Evaluation of four completed Micro-Credit-Projects in Bangladesh</title>
+  <activity-status code="2" xml:lang="en">Implementation</activity-status>
+  <activity-date iso-date="2015-03-15" type="start-actual"/>
+  <activity-date iso-date="2015-03-15" type="start-planned"/>
+  <contact-info>
+   <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+   <email>RL110@bmz.bund.de</email>
+   <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach
+    12 03 22, 53045 Bonn</mailing-address>
+  </contact-info>
+  <participating-org ref="DE" type="10" role="Funding">BMZ</participating-org>
+  <participating-org role="Implementing">Lichtbrücke e. V.</participating-org>
+  <recipient-country xml:lang="en" code="BD">Bangladesh</recipient-country>
+  <sector vocabulary="DAC" code="24040"/>
+  <collaboration-type code="1"/>
+  <transaction>
+   <provider-org ref="DE-1">BMZ</provider-org>
+   <flow-type code="10">ODA</flow-type>
+   <tied-status code="5"/>
+   <transaction-date iso-date="2015-03-15"/>
+   <transaction-type code="C"/>
+   <value currency="EUR" value-date="2015-03-15">22920</value>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Total amount</description>
+   <value currency="EUR" value-date="2015-10-31">11474</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+ </iati-activity><iati-activity iati-extra:version="1.05" xml:lang="de" default-currency="EUR" last-updated-datetime="2015-12-18T17:00:00+01:00" hierarchy="1">
+  <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+  <iati-identifier>DE-1-201220979</iati-identifier>
+  <other-identifier owner-ref="DE-1" owner-name="BMZ">201220979</other-identifier>
+  <title xml:lang="de">Programm eneuerbare Energie und Energieeffizienz</title>
+  <title xml:lang="en">Renewable Energy and Energy Efficiency Programme</title>
+  <description type="1" xml:lang="de">Die konzeptionellen Grundlagen zur Verbreitung erneuerbarer Energien und zur
+   Steigerung der Energieeffizienz in Bangladesch werden erfolgreich genutzt</description>
+  <description type="1" xml:lang="en">The conceptual basis for the development of renewable energy sources and increase
+   energy efficiency in Bangladesh are used successfully</description>
+  <activity-website>https://www.giz.de/projektdaten/projects.action?request_locale=en_EN&amp;pn=201220979</activity-website>
+  <activity-status code="2" xml:lang="en">Implementation</activity-status>
+  <activity-date iso-date="2013-10-08" type="start-actual"/>
+  <activity-date iso-date="2013-10-08" type="start-planned"/>
+  <activity-date iso-date="2016-10-31" type="end-planned"/>
+  <contact-info>
+   <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+   <email>RL223@bmz.bund.de</email>
+   <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach
+    12 03 22, 53045 Bonn</mailing-address>
+  </contact-info>
+  <participating-org ref="DE" type="10" role="Funding">BMZ</participating-org>
+  <participating-org role="Implementing">Gesellschaft für internationale Zusammenarbeit (GIZ) GmbH</participating-org>
+  <participating-org role="Implementing">Power Division of the Ministry of Power, Energy and Mineral Resources
+   (MPEMR)</participating-org>
+  <recipient-country xml:lang="en" code="BD">Bangladesh</recipient-country>
+  <sector vocabulary="DAC" code="23030"/>
+  <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+  <policy-marker code="2" vocabulary="DAC" significance="1">Aid to Environment</policy-marker>
+  <policy-marker code="3" vocabulary="DAC" significance="1">Participatory Development/Good Governance</policy-marker>
+  <policy-marker code="5" vocabulary="DAC" significance="1">Aid Targeting the Objectives of the Convention on Biological
+   Diversity</policy-marker>
+  <policy-marker code="6" vocabulary="DAC" significance="2">Aid Targeting the Objectives of the Framework Convention on Climate Change -
+   Mitigation</policy-marker>
+  <collaboration-type code="1"/>
+  <transaction>
+   <provider-org ref="DE-1">BMZ</provider-org>
+   <aid-type code="C01"/>
+   <flow-type code="10">ODA</flow-type>
+   <finance-type code="110"/>
+   <tied-status code="3"/>
+   <transaction-date iso-date="2013-10-08"/>
+   <transaction-type code="C"/>
+   <value currency="EUR" value-date="2013-10-08">10000000</value>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Total amount</description>
+   <value currency="EUR" value-date="2015-10-31">4000000</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Personnel costs</description>
+   <value currency="EUR" value-date="2015-10-31">1539791</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Material costs</description>
+   <value currency="EUR" value-date="2015-10-31">153045</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Other costs</description>
+   <value currency="EUR" value-date="2015-10-31">2307164</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+ </iati-activity><iati-activity iati-extra:version="1.05" xml:lang="de" default-currency="EUR" last-updated-datetime="2015-12-18T17:00:00+01:00" hierarchy="1">
+  <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+  <iati-identifier>DE-1-201206143</iati-identifier>
+  <other-identifier owner-ref="DE-1" owner-name="BMZ">201206143</other-identifier>
+  <title xml:lang="de">Integriertes Entwicklungsprojekt mit Kleinkrediten, Vorschulerziehung,
+   Gesundheitsdiensten und Reinigung von arsenverseuchtem Trinkwasser</title>
+  <title xml:lang="en">Integrated development project with micro-credist, pre-school education, health
+   service and arsenic mitigation</title>
+  <description type="1" xml:lang="en">Integrated development project with micro-credist, pre-school education, health
+   service and arsenic mitigation</description>
+  <activity-status code="2" xml:lang="en">Implementation</activity-status>
+  <activity-date iso-date="2012-01-01" type="start-actual"/>
+  <activity-date iso-date="2012-01-01" type="start-planned"/>
+  <activity-date iso-date="2015-12-31" type="end-planned"/>
+  <contact-info>
+   <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+   <email>RL110@bmz.bund.de</email>
+   <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach
+    12 03 22, 53045 Bonn</mailing-address>
+  </contact-info>
+  <participating-org ref="DE" type="10" role="Funding">BMZ</participating-org>
+  <participating-org role="Implementing">Lichtbrücke e. V.</participating-org>
+  <recipient-country xml:lang="en" code="BD">Bangladesh</recipient-country>
+  <sector vocabulary="DAC" code="16050"/>
+  <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+  <collaboration-type code="1"/>
+  <transaction>
+   <provider-org ref="DE-1">BMZ</provider-org>
+   <aid-type code="C01"/>
+   <flow-type code="10">ODA</flow-type>
+   <finance-type code="110"/>
+   <tied-status code="5"/>
+   <transaction-date iso-date="2012-01-01"/>
+   <transaction-type code="C"/>
+   <value currency="EUR" value-date="2012-01-01">351450</value>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Total amount</description>
+   <value currency="EUR" value-date="2015-10-31">323334</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+ </iati-activity><iati-activity iati-extra:version="1.05" xml:lang="de" default-currency="EUR" last-updated-datetime="2015-12-18T17:00:00+01:00" hierarchy="1">
+  <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+  <iati-identifier>DE-1-200266809</iati-identifier>
+  <other-identifier owner-ref="DE-1" owner-name="BMZ">200266809</other-identifier>
+  <title xml:lang="de">Erneuerbare Energie I - Solarnergieanlagen</title>
+  <title xml:lang="en">Solar Home Systems</title>
+  <description type="1" xml:lang="de">Diversifizierung von Energiequellen</description>
+  <description type="1" xml:lang="en">Financial contibution shall provide 10,000 solar home systems in deprived regions
+   and promote their usage.</description>
+  <activity-status code="3" xml:lang="en">Completion</activity-status>
+  <activity-date iso-date="2005-12-22" type="start-actual"/>
+  <activity-date iso-date="2015-01-15" type="end-actual"/>
+  <activity-date iso-date="2007-05-23" type="start-planned"/>
+  <activity-date iso-date="2010-05-22" type="end-planned"/>
+  <contact-info>
+   <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+   <email>RL223@bmz.bund.de</email>
+   <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach
+    12 03 22, 53045 Bonn</mailing-address>
+  </contact-info>
+  <participating-org ref="DE" type="10" role="Funding">BMZ</participating-org>
+  <participating-org role="Implementing">KREDITANSTALT FUER WIEDERAUFBAU (KFW)</participating-org>
+  <participating-org role="Implementing">INFRASTRUCTURE DEVELOPMENT COMPANY LIMITED</participating-org>
+  <recipient-country xml:lang="en" code="BD">Bangladesh</recipient-country>
+  <sector vocabulary="DAC" code="23030"/>
+  <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+  <policy-marker code="2" vocabulary="DAC" significance="2">Aid to Environment</policy-marker>
+  <policy-marker code="3" vocabulary="DAC" significance="1">Participatory Development/Good Governance</policy-marker>
+  <collaboration-type code="1"/>
+  <transaction>
+   <provider-org ref="DE-1">BMZ</provider-org>
+   <aid-type code="C01"/>
+   <flow-type code="10">ODA</flow-type>
+   <finance-type code="110"/>
+   <transaction-date iso-date="2005-12-22"/>
+   <transaction-type code="C"/>
+   <value currency="EUR" value-date="2005-12-22">16504067</value>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Total amount</description>
+   <value currency="EUR" value-date="2015-10-31">16504067</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Personnel costs</description>
+   <value currency="EUR" value-date="2015-10-31">0</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Material costs</description>
+   <value currency="EUR" value-date="2015-10-31">0</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Other costs</description>
+   <value currency="EUR" value-date="2015-10-31">0</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+ </iati-activity><iati-activity iati-extra:version="1.05" xml:lang="de" default-currency="EUR" last-updated-datetime="2015-12-18T17:00:00+01:00" hierarchy="1">
+  <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+  <iati-identifier>DE-1-201222694</iati-identifier>
+  <other-identifier owner-ref="DE-1" owner-name="BMZ">201222694</other-identifier>
+  <title xml:lang="de">Gute Regierungsführung im städtischen Bereich</title>
+  <title xml:lang="en">Good Governance in Urban Areas</title>
+  <description type="1" xml:lang="de">Der städtischen Bevölkerung steht ein nachfrageorientiertes und effektives
+   Dienstleistungsangebot zur Verfügung, das auf transparenten kommunalen Entscheidungsmechanismen
+   beruht.</description>
+  <description type="1" xml:lang="en">The urban population has access to a demand-oriented and effective range of public
+   services based on transparent municipal decision-making machanisms.</description>
+  <activity-website>https://www.giz.de/projektdaten/projects.action?request_locale=en_EN&amp;pn=201222694</activity-website>
+  <activity-status code="2" xml:lang="en">Implementation</activity-status>
+  <activity-date iso-date="2012-06-11" type="start-actual"/>
+  <activity-date iso-date="2012-06-11" type="start-planned"/>
+  <activity-date iso-date="2014-12-31" type="end-planned"/>
+  <contact-info>
+   <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+   <email>RL223@bmz.bund.de</email>
+   <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach
+    12 03 22, 53045 Bonn</mailing-address>
+  </contact-info>
+  <participating-org ref="DE" type="10" role="Funding">BMZ</participating-org>
+  <participating-org role="Implementing">Gesellschaft für internationale Zusammenarbeit (GIZ) GmbH</participating-org>
+  <participating-org role="Implementing">Ministry of Local Government, Rural Development and
+   Cooperatives</participating-org>
+  <recipient-country xml:lang="en" code="BD">Bangladesh</recipient-country>
+  <sector vocabulary="DAC" code="43030"/>
+  <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+  <policy-marker code="2" vocabulary="DAC" significance="1">Aid to Environment</policy-marker>
+  <policy-marker code="3" vocabulary="DAC" significance="2">Participatory Development/Good Governance</policy-marker>
+  <collaboration-type code="1"/>
+  <transaction>
+   <provider-org ref="DE-1">BMZ</provider-org>
+   <aid-type code="C01"/>
+   <flow-type code="10">ODA</flow-type>
+   <finance-type code="110"/>
+   <tied-status code="3"/>
+   <transaction-date iso-date="2012-06-11"/>
+   <transaction-type code="C"/>
+   <value currency="EUR" value-date="2012-06-11">3000000</value>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Total amount</description>
+   <value currency="EUR" value-date="2015-10-31">2905379</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Personnel costs</description>
+   <value currency="EUR" value-date="2015-10-31">1794126</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Material costs</description>
+   <value currency="EUR" value-date="2015-10-31">109325</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Other costs</description>
+   <value currency="EUR" value-date="2015-10-31">1001927</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+ </iati-activity><iati-activity iati-extra:version="1.05" xml:lang="de" default-currency="EUR" last-updated-datetime="2015-12-18T17:00:00+01:00" hierarchy="1">
+  <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+  <iati-identifier>DE-1-201415694</iati-identifier>
+  <other-identifier owner-ref="DE-1" owner-name="BMZ">201415694</other-identifier>
+  <title xml:lang="de">Mikrokredite und Capacity Building zur Verbesserung der Lebensgrundlage ärmster
+   Slumbewohner</title>
+  <title xml:lang="en">Micro Credit and Capacity Building to improve the livelihood of poor Slum
+   Dwellers</title>
+  <description type="1" xml:lang="en">Micro Credit and Capacity Building to improve the livelihood of poor Slum
+   Dwellers</description>
+  <activity-status code="2" xml:lang="en">Implementation</activity-status>
+  <activity-date iso-date="2014-05-01" type="start-actual"/>
+  <activity-date iso-date="2014-05-01" type="start-planned"/>
+  <activity-date iso-date="2017-12-31" type="end-planned"/>
+  <contact-info>
+   <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+   <email>RL110@bmz.bund.de</email>
+   <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach
+    12 03 22, 53045 Bonn</mailing-address>
+  </contact-info>
+  <participating-org ref="DE" type="10" role="Funding">BMZ</participating-org>
+  <participating-org role="Implementing">Lichtbrücke e. V.</participating-org>
+  <recipient-country xml:lang="en" code="BD">Bangladesh</recipient-country>
+  <sector vocabulary="DAC" code="11230"/>
+  <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+  <collaboration-type code="1"/>
+  <transaction>
+   <provider-org ref="DE-1">BMZ</provider-org>
+   <aid-type code="C01"/>
+   <flow-type code="10">ODA</flow-type>
+   <finance-type code="110"/>
+   <tied-status code="5"/>
+   <transaction-date iso-date="2014-05-01"/>
+   <transaction-type code="C"/>
+   <value currency="EUR" value-date="2014-05-01">201150</value>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Total amount</description>
+   <value currency="EUR" value-date="2015-10-31">84020</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+ </iati-activity><iati-activity iati-extra:version="1.05" xml:lang="de" default-currency="EUR" last-updated-datetime="2015-12-18T17:00:00+01:00" hierarchy="1">
+  <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+  <iati-identifier>DE-1-201415470</iati-identifier>
+  <other-identifier owner-ref="DE-1" owner-name="BMZ">201415470</other-identifier>
+  <title xml:lang="de">Wirtschaftliche Entwicklung in ländlichen Regionen, Bangladesch</title>
+  <title xml:lang="en">Rural Economic Development and Empowerment of Poor Rural Families,
+   Bangladesh</title>
+  <description type="1" xml:lang="en">Rural Economic Development and Empowerment of Poor Rural Families,
+   Bangladesh</description>
+  <activity-status code="2" xml:lang="en">Implementation</activity-status>
+  <activity-date iso-date="2014-02-01" type="start-actual"/>
+  <activity-date iso-date="2014-02-01" type="start-planned"/>
+  <activity-date iso-date="2017-12-31" type="end-planned"/>
+  <contact-info>
+   <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+   <email>RL110@bmz.bund.de</email>
+   <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach
+    12 03 22, 53045 Bonn</mailing-address>
+  </contact-info>
+  <participating-org ref="DE" type="10" role="Funding">BMZ</participating-org>
+  <participating-org role="Implementing">Internationaler Ländlicher Entwicklungsdienst e.V. (ILD)</participating-org>
+  <recipient-country xml:lang="en" code="BD">Bangladesh</recipient-country>
+  <sector vocabulary="DAC" code="43040"/>
+  <collaboration-type code="1"/>
+  <transaction>
+   <provider-org ref="DE-1">BMZ</provider-org>
+   <aid-type code="C01"/>
+   <flow-type code="10">ODA</flow-type>
+   <finance-type code="110"/>
+   <tied-status code="5"/>
+   <transaction-date iso-date="2014-02-01"/>
+   <transaction-type code="C"/>
+   <value currency="EUR" value-date="2014-02-01">1196379</value>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Total amount</description>
+   <value currency="EUR" value-date="2015-10-31">666750</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+ </iati-activity><iati-activity iati-extra:version="1.05" xml:lang="de" default-currency="EUR" last-updated-datetime="2015-12-18T17:00:00+01:00" hierarchy="1">
+  <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+  <iati-identifier>DE-1-200166389</iati-identifier>
+  <other-identifier owner-ref="DE-1" owner-name="BMZ">200166389</other-identifier>
+  <title xml:lang="de">230 KV Übertragungsleitung Baghabari-Bogra</title>
+  <title xml:lang="en">Transmission Line Baghabari - Bogra</title>
+  <description type="1" xml:lang="de">Das Projektziel ist die Deckung der steigenden Elektrizitätsnachfrage in der
+   Westzone von Bangladesch. Das Oberziel des Vorhabens ist, durch die Unterstützung des
+   Reformprozesses im Stromsektor einen Beitrag zu einer volkswirtschaftlich effizienten
+   Stromversorgung und damit zur wirtschaftlichen Entwicklung Bangladeschs zu leisten.</description>
+  <activity-status code="3" xml:lang="en">Completion</activity-status>
+  <activity-date iso-date="2003-11-18" type="start-actual"/>
+  <activity-date iso-date="2015-09-24" type="end-actual"/>
+  <contact-info>
+   <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+   <email>RL223@bmz.bund.de</email>
+   <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach
+    12 03 22, 53045 Bonn</mailing-address>
+  </contact-info>
+  <participating-org ref="DE" type="10" role="Funding">BMZ</participating-org>
+  <participating-org role="Implementing">KREDITANSTALT FUER WIEDERAUFBAU (KFW)</participating-org>
+  <participating-org role="Implementing">POWER GRID COMPANY OF BANGLADESH LTD.</participating-org>
+  <recipient-country xml:lang="en" code="BD">Bangladesh</recipient-country>
+  <sector vocabulary="DAC" code="23630"/>
+  <collaboration-type code="1"/>
+  <transaction>
+   <provider-org ref="DE-1">BMZ</provider-org>
+   <flow-type code="10">ODA</flow-type>
+   <transaction-type code="C"/>
+   <value currency="EUR" value-date="2003-11-18">22465423</value>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Total amount</description>
+   <value currency="EUR" value-date="2015-10-31">22465423</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Personnel costs</description>
+   <value currency="EUR" value-date="2015-10-31">0</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Material costs</description>
+   <value currency="EUR" value-date="2015-10-31">0</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Other costs</description>
+   <value currency="EUR" value-date="2015-10-31">0</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+ </iati-activity><iati-activity iati-extra:version="1.05" xml:lang="de" default-currency="EUR" last-updated-datetime="2015-12-18T17:00:00+01:00" hierarchy="1">
+  <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+  <iati-identifier>DE-1-201220987</iati-identifier>
+  <other-identifier owner-ref="DE-1" owner-name="BMZ">201220987</other-identifier>
+  <title xml:lang="de">Justiz- und Gefängnisreform zur Förderung der politischen Menschenrechte und
+   Korruptionsbekämpfung</title>
+  <title xml:lang="en">Prison and Justice Reform for Promoting Human Right and Preventing
+   Corruption</title>
+  <description type="1" xml:lang="de">Der Justizsektor wendet neue Reformansätze auf der Grundlage guter Praxisbeispiele
+   der institutionellen Zusammenarbeit in ausgewähltenPilotgebieten an.</description>
+  <description type="1" xml:lang="en">The national strategy for reforming the justice sector integrates examples of good
+   practice which have been established in selected pilot areas.</description>
+  <activity-website>https://www.giz.de/projektdaten/projects.action?request_locale=en_EN&amp;pn=201220987</activity-website>
+  <activity-status code="2" xml:lang="en">Implementation</activity-status>
+  <activity-date iso-date="2012-10-30" type="start-actual"/>
+  <activity-date iso-date="2012-10-30" type="start-planned"/>
+  <activity-date iso-date="2015-10-31" type="end-planned"/>
+  <contact-info>
+   <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+   <email>RL223@bmz.bund.de</email>
+   <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach
+    12 03 22, 53045 Bonn</mailing-address>
+  </contact-info>
+  <participating-org ref="DE" type="10" role="Funding">BMZ</participating-org>
+  <participating-org role="Implementing">Gesellschaft für internationale Zusammenarbeit (GIZ) GmbH</participating-org>
+  <participating-org role="Implementing">Ministry of Home Affairs</participating-org>
+  <recipient-country xml:lang="en" code="BD">Bangladesh</recipient-country>
+  <sector vocabulary="DAC" code="15160"/>
+  <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+  <policy-marker code="3" vocabulary="DAC" significance="2">Participatory Development/Good Governance</policy-marker>
+  <collaboration-type code="1"/>
+  <transaction>
+   <provider-org ref="DE-1">BMZ</provider-org>
+   <aid-type code="C01"/>
+   <flow-type code="10">ODA</flow-type>
+   <finance-type code="110"/>
+   <tied-status code="3"/>
+   <transaction-date iso-date="2012-10-30"/>
+   <transaction-type code="C"/>
+   <value currency="EUR" value-date="2012-10-30">9200000</value>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Total amount</description>
+   <value currency="EUR" value-date="2015-10-31">4268858</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Personnel costs</description>
+   <value currency="EUR" value-date="2015-10-31">2647318</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Material costs</description>
+   <value currency="EUR" value-date="2015-10-31">138611</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Other costs</description>
+   <value currency="EUR" value-date="2015-10-31">1482929</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+ </iati-activity><iati-activity iati-extra:version="1.05" xml:lang="de" default-currency="EUR" last-updated-datetime="2015-12-18T17:00:00+01:00" hierarchy="1">
+  <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+  <iati-identifier>DE-1-201316850</iati-identifier>
+  <other-identifier owner-ref="DE-1" owner-name="BMZ">201316850</other-identifier>
+  <title xml:lang="de">Integriertes Familien Entwicklungsprojekt mit Kleinkrediten und Training in
+   Ghatail, Bangladesch</title>
+  <title xml:lang="en">Integrated family development project with micro-mredits and training in Ghatail,
+   Bangladesh</title>
+  <description type="1" xml:lang="en">Integrated family development project with micro-mredits and training in Ghatail,
+   Bangladesh</description>
+  <activity-status code="2" xml:lang="en">Implementation</activity-status>
+  <activity-date iso-date="2013-08-01" type="start-actual"/>
+  <activity-date iso-date="2013-08-01" type="start-planned"/>
+  <activity-date iso-date="2016-12-31" type="end-planned"/>
+  <contact-info>
+   <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+   <email>RL110@bmz.bund.de</email>
+   <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach
+    12 03 22, 53045 Bonn</mailing-address>
+  </contact-info>
+  <participating-org ref="DE" type="10" role="Funding">BMZ</participating-org>
+  <participating-org role="Implementing">Lichtbrücke e. V.</participating-org>
+  <recipient-country xml:lang="en" code="BD">Bangladesh</recipient-country>
+  <sector vocabulary="DAC" code="15160"/>
+  <policy-marker code="1" vocabulary="DAC" significance="2">Gender Equality</policy-marker>
+  <policy-marker code="3" vocabulary="DAC" significance="2">Participatory Development/Good Governance</policy-marker>
+  <collaboration-type code="1"/>
+  <transaction>
+   <provider-org ref="DE-1">BMZ</provider-org>
+   <aid-type code="C01"/>
+   <flow-type code="10">ODA</flow-type>
+   <finance-type code="110"/>
+   <tied-status code="5"/>
+   <transaction-date iso-date="2013-08-01"/>
+   <transaction-type code="C"/>
+   <value currency="EUR" value-date="2013-08-01">318705</value>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Total amount</description>
+   <value currency="EUR" value-date="2015-10-31">230049</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+ </iati-activity><iati-activity iati-extra:version="1.05" xml:lang="de" default-currency="EUR" last-updated-datetime="2015-12-18T17:00:00+01:00" hierarchy="1">
+  <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+  <iati-identifier>DE-1-200665091</iati-identifier>
+  <other-identifier owner-ref="DE-1" owner-name="BMZ">200665091</other-identifier>
+  <title xml:lang="de">Energieeffizienz (Power Transmission Program)</title>
+  <title xml:lang="en">Energy Efficiency Program I</title>
+  <description type="1" xml:lang="de">offen</description>
+  <description type="1" xml:lang="en">Financing of the procurement and installation of reactive power compensation
+   equipment in various substations in the transmission system of Bangladesh</description>
+  <activity-status code="2" xml:lang="en">Implementation</activity-status>
+  <activity-date iso-date="2006-03-29" type="start-actual"/>
+  <activity-date iso-date="2009-09-09" type="start-planned"/>
+  <activity-date iso-date="2012-09-08" type="end-planned"/>
+  <contact-info>
+   <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+   <email>RL223@bmz.bund.de</email>
+   <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach
+    12 03 22, 53045 Bonn</mailing-address>
+  </contact-info>
+  <participating-org ref="DE" type="10" role="Funding">BMZ</participating-org>
+  <participating-org role="Implementing">KREDITANSTALT FUER WIEDERAUFBAU (KFW)</participating-org>
+  <participating-org role="Implementing">POWER GRID COMPANY OF BANGLADESH LTD.</participating-org>
+  <recipient-country xml:lang="en" code="BD">Bangladesh</recipient-country>
+  <sector vocabulary="DAC" code="23040"/>
+  <collaboration-type code="1"/>
+  <transaction>
+   <provider-org ref="DE-1">BMZ</provider-org>
+   <aid-type code="C01"/>
+   <flow-type code="10">ODA</flow-type>
+   <finance-type code="110"/>
+   <transaction-date iso-date="2006-03-29"/>
+   <transaction-type code="C"/>
+   <value currency="EUR" value-date="2006-03-29">9699555</value>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Total amount</description>
+   <value currency="EUR" value-date="2015-10-31">9183226</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Personnel costs</description>
+   <value currency="EUR" value-date="2015-10-31">0</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Material costs</description>
+   <value currency="EUR" value-date="2015-10-31">0</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Other costs</description>
+   <value currency="EUR" value-date="2015-10-31">0</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+ </iati-activity><iati-activity iati-extra:version="1.05" xml:lang="de" default-currency="EUR" last-updated-datetime="2015-12-18T17:00:00+01:00" hierarchy="1">
+  <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+  <iati-identifier>DE-1-201515998</iati-identifier>
+  <other-identifier owner-ref="DE-1" owner-name="BMZ">201515998</other-identifier>
+  <title xml:lang="de">Sicherung nachhaltiger Existenzgrundlagen durch Einsatz erneuerbarer Energien und
+   Anpassungsmaßnahmen an den Klimawandel für arme Familien auf Schwemmlandinseln</title>
+  <title xml:lang="en">Sustainable livelihood through renewable energies &amp; climate change adaptation
+   measures for people living on chars</title>
+  <activity-status code="2" xml:lang="en">Implementation</activity-status>
+  <activity-date iso-date="2015-06-01" type="start-actual"/>
+  <activity-date iso-date="2015-06-01" type="start-planned"/>
+  <contact-info>
+   <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+   <email>RL110@bmz.bund.de</email>
+   <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach
+    12 03 22, 53045 Bonn</mailing-address>
+  </contact-info>
+  <participating-org ref="DE" type="10" role="Funding">BMZ</participating-org>
+  <participating-org role="Implementing">Andheri-Hilfe e. V.</participating-org>
+  <recipient-country xml:lang="en" code="BD">Bangladesh</recipient-country>
+  <sector vocabulary="DAC" code="43040"/>
+  <policy-marker code="2" vocabulary="DAC" significance="2">Aid to Environment</policy-marker>
+  <policy-marker code="6" vocabulary="DAC" significance="1">Aid Targeting the Objectives of the Framework Convention on Climate Change -
+   Mitigation</policy-marker>
+  <policy-marker code="7" vocabulary="DAC" significance="1">Aid Targeting the Objectives of the Framework Convention on Climate Change -
+   Adaptation</policy-marker>
+  <collaboration-type code="1"/>
+  <transaction>
+   <provider-org ref="DE-1">BMZ</provider-org>
+   <flow-type code="10">ODA</flow-type>
+   <tied-status code="5"/>
+   <transaction-date iso-date="2015-06-01"/>
+   <transaction-type code="C"/>
+   <value currency="EUR" value-date="2015-06-01">497823</value>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Total amount</description>
+   <value currency="EUR" value-date="2015-10-31">0</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+ </iati-activity><iati-activity iati-extra:version="1.05" xml:lang="de" default-currency="EUR" last-updated-datetime="2015-12-18T17:00:00+01:00" hierarchy="1">
+  <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+  <iati-identifier>DE-1-201216704</iati-identifier>
+  <other-identifier owner-ref="DE-1" owner-name="BMZ">201216704</other-identifier>
+  <title xml:lang="de">Verbesserung der Lebensgrundlagen von Landarbeitern und Kleinbauern,
+   Bangladesch</title>
+  <title xml:lang="en">Improving livelihoods of poor agricultural labourers and small peasants,
+   Bangladesh</title>
+  <description type="1" xml:lang="en">Improving livelihoods of poor agricultural labourers and small peasants,
+   Bangladesh</description>
+  <activity-status code="2" xml:lang="en">Implementation</activity-status>
+  <activity-date iso-date="2012-09-01" type="start-actual"/>
+  <activity-date iso-date="2012-09-01" type="start-planned"/>
+  <activity-date iso-date="2015-12-31" type="end-planned"/>
+  <contact-info>
+   <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+   <email>RL110@bmz.bund.de</email>
+   <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach
+    12 03 22, 53045 Bonn</mailing-address>
+  </contact-info>
+  <participating-org ref="DE" type="10" role="Funding">BMZ</participating-org>
+  <participating-org role="Implementing">Andheri-Hilfe e. V.</participating-org>
+  <recipient-country xml:lang="en" code="BD">Bangladesh</recipient-country>
+  <sector vocabulary="DAC" code="41030"/>
+  <policy-marker code="2" vocabulary="DAC" significance="2">Aid to Environment</policy-marker>
+  <policy-marker code="3" vocabulary="DAC" significance="1">Participatory Development/Good Governance</policy-marker>
+  <policy-marker code="5" vocabulary="DAC" significance="2">Aid Targeting the Objectives of the Convention on Biological
+   Diversity</policy-marker>
+  <policy-marker code="6" vocabulary="DAC" significance="1">Aid Targeting the Objectives of the Framework Convention on Climate Change -
+   Mitigation</policy-marker>
+  <policy-marker code="7" vocabulary="DAC" significance="1">Aid Targeting the Objectives of the Framework Convention on Climate Change -
+   Adaptation</policy-marker>
+  <collaboration-type code="1"/>
+  <transaction>
+   <provider-org ref="DE-1">BMZ</provider-org>
+   <aid-type code="C01"/>
+   <flow-type code="10">ODA</flow-type>
+   <finance-type code="110"/>
+   <tied-status code="5"/>
+   <transaction-date iso-date="2012-09-01"/>
+   <transaction-type code="C"/>
+   <value currency="EUR" value-date="2012-09-01">499968</value>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Total amount</description>
+   <value currency="EUR" value-date="2015-10-31">437787</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+ </iati-activity><iati-activity iati-extra:version="1.05" xml:lang="de" default-currency="EUR" last-updated-datetime="2015-12-18T17:00:00+01:00" hierarchy="1">
+  <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+  <iati-identifier>DE-1-201506237</iati-identifier>
+  <other-identifier owner-ref="DE-1" owner-name="BMZ">201506237</other-identifier>
+  <title xml:lang="de">Armutsbekämpfung durch Einsatz neuer Energien und Anpassungsmaßnahmen an den
+   Klimwandel für arme Familien auf Schwemmlandinseln, Bangladesh</title>
+  <title xml:lang="en">Poverty Alleviation through renewable energies &amp; climate change adaptation
+   measures for people living on chars</title>
+  <activity-status code="2" xml:lang="en">Implementation</activity-status>
+  <activity-date iso-date="2015-01-01" type="start-actual"/>
+  <activity-date iso-date="2015-01-01" type="start-planned"/>
+  <contact-info>
+   <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+   <email>RL110@bmz.bund.de</email>
+   <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach
+    12 03 22, 53045 Bonn</mailing-address>
+  </contact-info>
+  <participating-org ref="DE" type="10" role="Funding">BMZ</participating-org>
+  <participating-org role="Implementing">Andheri-Hilfe e. V.</participating-org>
+  <recipient-country xml:lang="en" code="BD">Bangladesh</recipient-country>
+  <sector vocabulary="DAC" code="43040"/>
+  <policy-marker code="2" vocabulary="DAC" significance="1">Aid to Environment</policy-marker>
+  <policy-marker code="3" vocabulary="DAC" significance="1">Participatory Development/Good Governance</policy-marker>
+  <policy-marker code="5" vocabulary="DAC" significance="1">Aid Targeting the Objectives of the Convention on Biological
+   Diversity</policy-marker>
+  <policy-marker code="6" vocabulary="DAC" significance="1">Aid Targeting the Objectives of the Framework Convention on Climate Change -
+   Mitigation</policy-marker>
+  <policy-marker code="7" vocabulary="DAC" significance="1">Aid Targeting the Objectives of the Framework Convention on Climate Change -
+   Adaptation</policy-marker>
+  <collaboration-type code="1"/>
+  <transaction>
+   <provider-org ref="DE-1">BMZ</provider-org>
+   <flow-type code="10">ODA</flow-type>
+   <tied-status code="5"/>
+   <transaction-date iso-date="2015-01-01"/>
+   <transaction-type code="C"/>
+   <value currency="EUR" value-date="2015-01-01">499068</value>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Total amount</description>
+   <value currency="EUR" value-date="2015-10-31">0</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+ </iati-activity><iati-activity iati-extra:version="1.05" xml:lang="de" default-currency="EUR" last-updated-datetime="2015-12-18T17:00:00+01:00" hierarchy="1">
+  <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+  <iati-identifier>DE-1-201067172</iati-identifier>
+  <other-identifier owner-ref="DE-1" owner-name="BMZ">201067172</other-identifier>
+  <title xml:lang="de">Klimaangepasste Stadtentwicklung in Khulna</title>
+  <title xml:lang="en">Climate change adapted urban development in Khulna</title>
+  <description type="1" xml:lang="de">Verbesserung der Lebensbedingungen der Einwohner durch eine zukunftsfähige und
+   umweltgerechte Infrastruktur</description>
+  <description type="1" xml:lang="en">The Financial Contribution is exclusively for sub-projects for the improvement of
+   transport-related urban infrastructure in Khulna with a focus on poverty reduction and adaption
+   to climate change.</description>
+  <activity-status code="2" xml:lang="en">Implementation</activity-status>
+  <activity-date iso-date="2010-12-14" type="start-actual"/>
+  <activity-date iso-date="2012-07-20" type="start-planned"/>
+  <activity-date iso-date="2015-07-20" type="end-planned"/>
+  <contact-info>
+   <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+   <email>RL223@bmz.bund.de</email>
+   <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach
+    12 03 22, 53045 Bonn</mailing-address>
+  </contact-info>
+  <participating-org ref="DE" type="10" role="Funding">BMZ</participating-org>
+  <participating-org role="Implementing">KREDITANSTALT FUER WIEDERAUFBAU (KFW)</participating-org>
+  <participating-org role="Implementing"> </participating-org>
+  <recipient-country xml:lang="en" code="BD">Bangladesh</recipient-country>
+  <sector vocabulary="DAC" code="43030"/>
+  <policy-marker code="7" vocabulary="DAC" significance="1">Aid Targeting the Objectives of the Framework Convention on Climate Change -
+   Adaptation</policy-marker>
+  <collaboration-type code="1"/>
+  <transaction>
+   <provider-org ref="DE-1">BMZ</provider-org>
+   <aid-type code="C01"/>
+   <flow-type code="10">ODA</flow-type>
+   <finance-type code="110"/>
+   <tied-status code="5"/>
+   <transaction-date iso-date="2010-12-14"/>
+   <transaction-type code="C"/>
+   <value currency="EUR" value-date="2010-12-14">10500000</value>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Total amount</description>
+   <value currency="EUR" value-date="2015-10-31">3383831</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Personnel costs</description>
+   <value currency="EUR" value-date="2015-10-31">0</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Material costs</description>
+   <value currency="EUR" value-date="2015-10-31">0</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Other costs</description>
+   <value currency="EUR" value-date="2015-10-31">0</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+ </iati-activity><iati-activity iati-extra:version="1.05" xml:lang="de" default-currency="EUR" last-updated-datetime="2015-12-18T17:00:00+01:00" hierarchy="1">
+  <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+  <iati-identifier>DE-1-200366237</iati-identifier>
+  <other-identifier owner-ref="DE-1" owner-name="BMZ">200366237</other-identifier>
+  <title xml:lang="de">Gesundheits, Ernährungs -u. Bevölkerungsprogramm (HNPSP)</title>
+  <title xml:lang="en">Health, Nutrition, and Population Sector Programme</title>
+  <description type="1" xml:lang="de">Beitrag zu verbesserten Basisgesundheitsdiensten, insb.Bekämpf. v. AIDS, und zur
+   Senkung des Bevölkerungswachstums</description>
+  <description type="1" xml:lang="en">Financial contribution shall improve health and nutritional conditions of the
+   population and reduce disparities among population groups by improving access and quality of
+   basis services.</description>
+  <activity-status code="2" xml:lang="en">Implementation</activity-status>
+  <activity-date iso-date="2003-11-05" type="start-actual"/>
+  <activity-date iso-date="2008-07-01" type="start-planned"/>
+  <activity-date iso-date="2011-07-01" type="end-planned"/>
+  <contact-info>
+   <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+   <email>RL223@bmz.bund.de</email>
+   <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach
+    12 03 22, 53045 Bonn</mailing-address>
+  </contact-info>
+  <participating-org ref="DE" type="10" role="Funding">BMZ</participating-org>
+  <participating-org role="Implementing">KREDITANSTALT FUER WIEDERAUFBAU (KFW)</participating-org>
+  <participating-org role="Implementing">MINISTRY OF HEALTH AND FAMILY WELFARE (MOHFW)</participating-org>
+  <recipient-country xml:lang="en" code="BD">Bangladesh</recipient-country>
+  <sector vocabulary="DAC" code="13020"/>
+  <policy-marker code="1" vocabulary="DAC" significance="2">Gender Equality</policy-marker>
+  <policy-marker code="3" vocabulary="DAC" significance="1">Participatory Development/Good Governance</policy-marker>
+  <collaboration-type code="1"/>
+  <transaction>
+   <provider-org ref="DE-1">BMZ</provider-org>
+   <aid-type code="B04"/>
+   <flow-type code="10">ODA</flow-type>
+   <finance-type code="110"/>
+   <transaction-date iso-date="2003-11-05"/>
+   <transaction-type code="C"/>
+   <value currency="EUR" value-date="2003-11-05">45300000</value>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Total amount</description>
+   <value currency="EUR" value-date="2015-10-31">43593453</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Personnel costs</description>
+   <value currency="EUR" value-date="2015-10-31">0</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Material costs</description>
+   <value currency="EUR" value-date="2015-10-31">0</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Other costs</description>
+   <value currency="EUR" value-date="2015-10-31">0</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+ </iati-activity><iati-activity iati-extra:version="1.05" xml:lang="de" default-currency="EUR" last-updated-datetime="2015-12-18T17:00:00+01:00" hierarchy="1">
+  <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+  <iati-identifier>DE-1-201401413</iati-identifier>
+  <other-identifier owner-ref="DE-1" owner-name="BMZ">201401413</other-identifier>
+  <title xml:lang="de">Ernährungssicherung durch Armutsreduzierung</title>
+  <title xml:lang="en">Food Security through Poverty Reduction</title>
+  <description type="1" xml:lang="en">Food Security through Poverty Reduction</description>
+  <activity-status code="2" xml:lang="en">Implementation</activity-status>
+  <activity-date iso-date="2014-11-01" type="start-actual"/>
+  <activity-date iso-date="2014-11-01" type="start-planned"/>
+  <activity-date iso-date="2017-12-31" type="end-planned"/>
+  <contact-info>
+   <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+   <email>RL110@bmz.bund.de</email>
+   <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach
+    12 03 22, 53045 Bonn</mailing-address>
+  </contact-info>
+  <participating-org ref="DE" type="10" role="Funding">BMZ</participating-org>
+  <participating-org role="Implementing">Hoffnungszeichen / Sign of Hope e.V.</participating-org>
+  <recipient-country xml:lang="en" code="BD">Bangladesh</recipient-country>
+  <sector vocabulary="DAC" code="31181"/>
+  <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+  <policy-marker code="3" vocabulary="DAC" significance="1">Participatory Development/Good Governance</policy-marker>
+  <collaboration-type code="1"/>
+  <transaction>
+   <provider-org ref="DE-1">BMZ</provider-org>
+   <aid-type code="C01"/>
+   <flow-type code="10">ODA</flow-type>
+   <finance-type code="110"/>
+   <tied-status code="5"/>
+   <transaction-date iso-date="2014-11-01"/>
+   <transaction-type code="C"/>
+   <value currency="EUR" value-date="2014-11-01">280800</value>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Total amount</description>
+   <value currency="EUR" value-date="2015-10-31">54000</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+ </iati-activity><iati-activity iati-extra:version="1.05" xml:lang="de" default-currency="EUR" last-updated-datetime="2015-12-18T17:00:00+01:00" hierarchy="1">
+  <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+  <iati-identifier>DE-1-201516855</iati-identifier>
+  <other-identifier owner-ref="DE-1" owner-name="BMZ">201516855</other-identifier>
+  <title xml:lang="de">Watsan Hygieneprogramm mit Latrinen- und Wasserpumpenbau</title>
+  <title xml:lang="en">Watsan hygiene program with latrines and water wells</title>
+  <activity-status code="1" xml:lang="en">Pipeline/identification</activity-status>
+  <activity-date iso-date="2015-07-01" type="start-planned"/>
+  <contact-info>
+   <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+   <email>RL110@bmz.bund.de</email>
+   <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach
+    12 03 22, 53045 Bonn</mailing-address>
+  </contact-info>
+  <participating-org ref="DE" type="10" role="Funding">BMZ</participating-org>
+  <participating-org role="Implementing">Kinderhilfswerk Stiftung Global-Care</participating-org>
+  <recipient-country xml:lang="en" code="BD">Bangladesh</recipient-country>
+  <sector vocabulary="DAC" code="14030"/>
+  <collaboration-type code="1"/>
+  <transaction>
+   <provider-org ref="DE-1">BMZ</provider-org>
+   <flow-type code="10">ODA</flow-type>
+   <tied-status code="5"/>
+   <transaction-type code="C"/>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Total amount</description>
+   <value currency="EUR" value-date="2015-10-31">0</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+ </iati-activity><iati-activity iati-extra:version="1.05" xml:lang="de" default-currency="EUR" last-updated-datetime="2015-12-18T17:00:00+01:00" hierarchy="1">
+  <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+  <iati-identifier>DE-1-201406941</iati-identifier>
+  <other-identifier owner-ref="DE-1" owner-name="BMZ">201406941</other-identifier>
+  <title xml:lang="de">Resilenz durch Ernährungssicherung, einkommensschaffende Maßnahmen,
+   Katastrophenvorsorge und Klimaanpassung- SEWOH</title>
+  <title xml:lang="en">Strengthening of resilence through measures in foodsecurity, income generation,
+   disaster risk reduction and climate change adaptation - SEWOH</title>
+  <description type="1" xml:lang="en">Strengthening of resilence through measures in foodsecurity, income generation,
+   disaster risk reduction and climate change adaptation - SEWOH</description>
+  <activity-status code="2" xml:lang="en">Implementation</activity-status>
+  <activity-date iso-date="2015-05-01" type="start-actual"/>
+  <activity-date iso-date="2015-05-01" type="start-planned"/>
+  <activity-date iso-date="2017-06-30" type="end-planned"/>
+  <contact-info>
+   <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+   <email>RL111@bmz.bund.de</email>
+   <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach
+    12 03 22, 53045 Bonn</mailing-address>
+  </contact-info>
+  <participating-org ref="DE" type="10" role="Funding">BMZ</participating-org>
+  <participating-org role="Implementing">Deutsches Rotes Kreuz e.V.</participating-org>
+  <recipient-country xml:lang="en" code="BD">Bangladesh</recipient-country>
+  <sector vocabulary="DAC" code="12261"/>
+  <policy-marker code="2" vocabulary="DAC" significance="1">Aid to Environment</policy-marker>
+  <policy-marker code="3" vocabulary="DAC" significance="1">Participatory Development/Good Governance</policy-marker>
+  <policy-marker code="7" vocabulary="DAC" significance="1">Aid Targeting the Objectives of the Framework Convention on Climate Change -
+   Adaptation</policy-marker>
+  <collaboration-type code="1"/>
+  <transaction>
+   <provider-org ref="DE-1">BMZ</provider-org>
+   <aid-type code="C01"/>
+   <flow-type code="10">ODA</flow-type>
+   <finance-type code="110"/>
+   <tied-status code="5"/>
+   <transaction-date iso-date="2014-10-30"/>
+   <transaction-type code="C"/>
+   <value currency="EUR" value-date="2014-10-30">285000</value>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Total amount</description>
+   <value currency="EUR" value-date="2015-10-31">0</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+ </iati-activity><iati-activity iati-extra:version="1.05" xml:lang="de" default-currency="EUR" last-updated-datetime="2015-12-18T17:00:00+01:00" hierarchy="1">
+  <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+  <iati-identifier>DE-1-201198407</iati-identifier>
+  <other-identifier owner-ref="DE-1" owner-name="BMZ">201198407</other-identifier>
+  <title xml:lang="de">Klimaschutz durch erneuerbare Energien und Anpassungsmaßnahmen an den Klimawandel
+   für arme Familien an den Flussufern, Bangladesh (Sondervermögen EKF)</title>
+  <title xml:lang="en">Climate protection through the use of renewable energies and adaption measures to
+   the climate change for poor families living on river banks</title>
+  <description type="1" xml:lang="en">Climate protection through the use of renewable energies and adaption measures to
+   the climate change for poor families living on river banks</description>
+  <activity-status code="2" xml:lang="en">Implementation</activity-status>
+  <activity-date iso-date="2012-01-01" type="start-actual"/>
+  <activity-date iso-date="2012-01-01" type="start-planned"/>
+  <activity-date iso-date="2015-12-31" type="end-planned"/>
+  <contact-info>
+   <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+   <email>RL110@bmz.bund.de</email>
+   <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach
+    12 03 22, 53045 Bonn</mailing-address>
+  </contact-info>
+  <participating-org ref="DE" type="10" role="Funding">BMZ</participating-org>
+  <participating-org role="Implementing">Andheri-Hilfe e. V.</participating-org>
+  <recipient-country xml:lang="en" code="BD">Bangladesh</recipient-country>
+  <sector vocabulary="DAC" code="41030"/>
+  <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+  <policy-marker code="2" vocabulary="DAC" significance="2">Aid to Environment</policy-marker>
+  <policy-marker code="5" vocabulary="DAC" significance="2">Aid Targeting the Objectives of the Convention on Biological
+   Diversity</policy-marker>
+  <policy-marker code="6" vocabulary="DAC" significance="1">Aid Targeting the Objectives of the Framework Convention on Climate Change -
+   Mitigation</policy-marker>
+  <policy-marker code="7" vocabulary="DAC" significance="1">Aid Targeting the Objectives of the Framework Convention on Climate Change -
+   Adaptation</policy-marker>
+  <collaboration-type code="1"/>
+  <transaction>
+   <provider-org ref="DE-1">BMZ</provider-org>
+   <aid-type code="C01"/>
+   <flow-type code="10">ODA</flow-type>
+   <finance-type code="110"/>
+   <tied-status code="5"/>
+   <transaction-date iso-date="2011-12-20"/>
+   <transaction-type code="C"/>
+   <value currency="EUR" value-date="2011-12-20">605880</value>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Total amount</description>
+   <value currency="EUR" value-date="2015-10-31">496822</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+ </iati-activity><iati-activity iati-extra:version="1.05" xml:lang="de" default-currency="EUR" last-updated-datetime="2015-12-18T17:00:00+01:00" hierarchy="1">
+  <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+  <iati-identifier>DE-1-201516640</iati-identifier>
+  <other-identifier owner-ref="DE-1" owner-name="BMZ">201516640</other-identifier>
+  <title xml:lang="de">Bildung für Kinder aus prekären Verhältnissen - Baptist Kinderdorf Khulna
+   (BCVK)</title>
+  <title xml:lang="en">Education for disadvantaged children - Baptist Children Village Khulna
+   (BCVK)</title>
+  <activity-status code="2" xml:lang="en">Implementation</activity-status>
+  <activity-date iso-date="2015-06-01" type="start-actual"/>
+  <activity-date iso-date="2015-06-01" type="start-planned"/>
+  <contact-info>
+   <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+   <email>RL110@bmz.bund.de</email>
+   <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach
+    12 03 22, 53045 Bonn</mailing-address>
+  </contact-info>
+  <participating-org ref="DE" type="10" role="Funding">BMZ</participating-org>
+  <participating-org role="Implementing">Global Team Hilfsbund e.V.</participating-org>
+  <recipient-country xml:lang="en" code="BD">Bangladesh</recipient-country>
+  <sector vocabulary="DAC" code="11120"/>
+  <collaboration-type code="1"/>
+  <transaction>
+   <provider-org ref="DE-1">BMZ</provider-org>
+   <flow-type code="10">ODA</flow-type>
+   <tied-status code="5"/>
+   <transaction-date iso-date="2015-06-01"/>
+   <transaction-type code="C"/>
+   <value currency="EUR" value-date="2015-06-01">373728</value>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Total amount</description>
+   <value currency="EUR" value-date="2015-10-31">0</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+ </iati-activity><iati-activity iati-extra:version="1.05" xml:lang="de" default-currency="EUR" last-updated-datetime="2015-12-18T17:00:00+01:00" hierarchy="1">
+  <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+  <iati-identifier>DE-1-201065374</iati-identifier>
+  <other-identifier owner-ref="DE-1" owner-name="BMZ">201065374</other-identifier>
+  <title xml:lang="de">Ländliche Märkte und Straßen III (RIIP III) </title>
+  <title xml:lang="en">Rural Infrastructure Improvement Programme, Phase III</title>
+  <description type="1" xml:lang="de">Entwicklung Ländliche Infrastruktur</description>
+  <description type="1" xml:lang="en">The Financing concerns the rehabilitation of Upazila roads with structures and tree
+   plantations and the upgrading of growth center markets, partly with women's market
+   sections.</description>
+  <activity-status code="2" xml:lang="en">Implementation</activity-status>
+  <activity-date iso-date="2009-12-23" type="start-actual"/>
+  <activity-date iso-date="2013-04-23" type="start-planned"/>
+  <activity-date iso-date="2016-04-22" type="end-planned"/>
+  <contact-info>
+   <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+   <email>RL223@bmz.bund.de</email>
+   <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach
+    12 03 22, 53045 Bonn</mailing-address>
+  </contact-info>
+  <participating-org ref="DE" type="10" role="Funding">BMZ</participating-org>
+  <participating-org role="Implementing">KREDITANSTALT FUER WIEDERAUFBAU (KFW)</participating-org>
+  <participating-org role="Implementing"> </participating-org>
+  <recipient-country xml:lang="en" code="BD">Bangladesh</recipient-country>
+  <sector vocabulary="DAC" code="43040"/>
+  <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+  <policy-marker code="3" vocabulary="DAC" significance="1">Participatory Development/Good Governance</policy-marker>
+  <collaboration-type code="1"/>
+  <transaction>
+   <provider-org ref="DE-1">BMZ</provider-org>
+   <aid-type code="C01"/>
+   <flow-type code="10">ODA</flow-type>
+   <finance-type code="110"/>
+   <transaction-date iso-date="2009-12-23"/>
+   <transaction-type code="C"/>
+   <value currency="EUR" value-date="2009-12-23">12000000</value>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Total amount</description>
+   <value currency="EUR" value-date="2015-10-31">9638943</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Personnel costs</description>
+   <value currency="EUR" value-date="2015-10-31">0</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Material costs</description>
+   <value currency="EUR" value-date="2015-10-31">0</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Other costs</description>
+   <value currency="EUR" value-date="2015-10-31">0</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+ </iati-activity><iati-activity iati-extra:version="1.05" xml:lang="de" default-currency="EUR" last-updated-datetime="2015-12-18T17:00:00+01:00" hierarchy="1">
+  <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+  <iati-identifier>DE-1-200766626</iati-identifier>
+  <other-identifier owner-ref="DE-1" owner-name="BMZ">200766626</other-identifier>
+  <title xml:lang="de">Energieeffizienzprogramm III</title>
+  <title xml:lang="en">Energy Efficiency Program III</title>
+  <description type="1" xml:lang="de">Reduzierung der Systemverluste durch Steigerung der Energieeffizienz</description>
+  <activity-status code="2" xml:lang="en">Implementation</activity-status>
+  <activity-date iso-date="2007-12-19" type="start-actual"/>
+  <contact-info>
+   <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+   <email>RL223@bmz.bund.de</email>
+   <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach
+    12 03 22, 53045 Bonn</mailing-address>
+  </contact-info>
+  <participating-org ref="DE" type="10" role="Funding">BMZ</participating-org>
+  <participating-org role="Implementing">KREDITANSTALT FUER WIEDERAUFBAU (KFW)</participating-org>
+  <participating-org role="Implementing">DHAKA POWER DISTRIBUTION COMPA NY LIMITED</participating-org>
+  <recipient-country xml:lang="en" code="BD">Bangladesh</recipient-country>
+  <sector vocabulary="DAC" code="23630"/>
+  <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+  <policy-marker code="2" vocabulary="DAC" significance="1">Aid to Environment</policy-marker>
+  <policy-marker code="3" vocabulary="DAC" significance="1">Participatory Development/Good Governance</policy-marker>
+  <collaboration-type code="1"/>
+  <transaction>
+   <provider-org ref="DE-1">BMZ</provider-org>
+   <flow-type code="10">ODA</flow-type>
+   <transaction-type code="C"/>
+   <value currency="EUR" value-date="2007-12-19">19000000</value>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <value currency="EUR" value-date="2015-10-31">0</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Personnel costs</description>
+   <value currency="EUR" value-date="2015-10-31">0</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Material costs</description>
+   <value currency="EUR" value-date="2015-10-31">0</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Other costs</description>
+   <value currency="EUR" value-date="2015-10-31">0</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+ </iati-activity><iati-activity iati-extra:version="1.05" xml:lang="de" default-currency="EUR" last-updated-datetime="2015-12-18T17:00:00+01:00" hierarchy="1">
+  <reporting-org ref="DE-1" type="10">BMZ</reporting-org>
+  <iati-identifier>DE-1-200766618</iati-identifier>
+  <other-identifier owner-ref="DE-1" owner-name="BMZ">200766618</other-identifier>
+  <title xml:lang="de">KV-Gute Lokale Regierungsführung (UGIIP)</title>
+  <title xml:lang="en">Good Local Governance</title>
+  <description type="1" xml:lang="de">Verbesserung der lokalen Regierungsführung in den mittelgroßen Städten von
+   BGD</description>
+  <description type="1" xml:lang="en">Financing of the construction and rehabilitation of roads, transport infrastructure
+   and markets etc. in the selected Pourashavas of the Second Urban Governance.</description>
+  <activity-status code="2" xml:lang="en">Implementation</activity-status>
+  <activity-date iso-date="2007-12-19" type="start-actual"/>
+  <activity-date iso-date="2010-08-25" type="start-planned"/>
+  <activity-date iso-date="2013-08-24" type="end-planned"/>
+  <contact-info>
+   <organisation>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung</organisation>
+   <email>RL223@bmz.bund.de</email>
+   <mailing-address>Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung, Postfach
+    12 03 22, 53045 Bonn</mailing-address>
+  </contact-info>
+  <participating-org ref="DE" type="10" role="Funding">BMZ</participating-org>
+  <participating-org role="Implementing">KREDITANSTALT FUER WIEDERAUFBAU (KFW)</participating-org>
+  <participating-org role="Implementing">LOCAL GOVT. ENGINEERING DEPT. THE PROJECT DIRECTOR</participating-org>
+  <recipient-country xml:lang="en" code="BD">Bangladesh</recipient-country>
+  <sector vocabulary="DAC" code="43030"/>
+  <policy-marker code="1" vocabulary="DAC" significance="1">Gender Equality</policy-marker>
+  <policy-marker code="2" vocabulary="DAC" significance="1">Aid to Environment</policy-marker>
+  <policy-marker code="3" vocabulary="DAC" significance="2">Participatory Development/Good Governance</policy-marker>
+  <collaboration-type code="1"/>
+  <transaction>
+   <provider-org ref="DE-1">BMZ</provider-org>
+   <aid-type code="C01"/>
+   <flow-type code="10">ODA</flow-type>
+   <finance-type code="110"/>
+   <transaction-date iso-date="2007-12-19"/>
+   <transaction-type code="C"/>
+   <value currency="EUR" value-date="2007-12-19">23000000</value>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Total amount</description>
+   <value currency="EUR" value-date="2015-10-31">22995469</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Personnel costs</description>
+   <value currency="EUR" value-date="2015-10-31">0</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Material costs</description>
+   <value currency="EUR" value-date="2015-10-31">0</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+  <transaction>
+   <transaction-date iso-date="2015-10-31"/>
+   <description xml:lang="en">Other costs</description>
+   <value currency="EUR" value-date="2015-10-31">0</value>
+   <transaction-type code="D">Disbursement</transaction-type>
+  </transaction>
+ </iati-activity></iati-activities></result>
